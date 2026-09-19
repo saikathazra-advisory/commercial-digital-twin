@@ -1,6 +1,12 @@
 # Commercial Digital Twin 2.0
 
- 
+## Live Application
+
+🚀 Try the live application:
+
+https://commercial-digital-twin-8wnjcjpmttkx8e3wk4nx7b.streamlit.app/
+
+---
 
 Commercial Digital Twin 2.0 is a Streamlit-based commercial strategy simulation platform developed by DSTSol Advisory.
 
