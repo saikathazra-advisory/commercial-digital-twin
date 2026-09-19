@@ -1,0 +1,41 @@
+# Python cache
+
+__pycache__/
+
+*.pyc
+
+ 
+
+# Virtual environments
+
+.venv/
+
+venv/
+
+ 
+
+# Streamlit secrets
+
+.streamlit/secrets.toml
+
+ 
+
+# Generated outputs
+
+output/*
+
+ 
+
+# IDE files
+
+.vscode/
+
+.idea/
+
+ 
+
+# OS files
+
+.DS_Store
+
+Thumbs.db

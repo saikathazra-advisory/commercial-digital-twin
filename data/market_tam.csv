@@ -1,0 +1,193 @@
+market_id,industry,geography,company_size,buyer_persona,total_companies,addressable_pct,tam_value_usd,average_budget_usd,market_growth_rate,competitive_intensity,regulatory_complexity
+M0001,Healthcare,North America,Strategic,CFO,154,0.292,45717209,884053,0.106,High,High
+M0002,Healthcare,North America,Strategic,CRO,145,0.228,25973863,748246,0.088,Low,High
+M0003,Healthcare,North America,Strategic,Strategy,185,0.402,81055714,1089898,0.097,High,High
+M0004,Healthcare,North America,Strategic,Product,115,0.262,29642758,1093143,0.051,High,High
+M0005,Healthcare,North America,Enterprise,CFO,431,0.319,75946263,480331,0.063,Low,High
+M0006,Healthcare,North America,Enterprise,CRO,749,0.473,126965312,341313,0.066,Medium,High
+M0007,Healthcare,North America,Enterprise,Strategy,779,0.403,203020546,646692,0.116,High,High
+M0008,Healthcare,North America,Enterprise,Product,430,0.292,43537842,385277,0.072,Medium,High
+M0009,Healthcare,North America,Mid-Market,CFO,1787,0.264,114571076,211178,0.075,High,High
+M0010,Healthcare,North America,Mid-Market,CRO,1332,0.439,60424759,98414,0.12,Medium,High
+M0011,Healthcare,North America,Mid-Market,Strategy,1687,0.448,166928245,220870,0.077,High,High
+M0012,Healthcare,North America,Mid-Market,Product,1245,0.256,69774341,243245,0.08,Medium,High
+M0013,Healthcare,Europe,Strategic,CFO,198,0.352,59738096,745325,0.125,Low,High
+M0014,Healthcare,Europe,Strategic,CRO,138,0.375,57242219,1053457,0.14,Medium,High
+M0015,Healthcare,Europe,Strategic,Strategy,94,0.25,21849971,929786,0.047,Medium,High
+M0016,Healthcare,Europe,Strategic,Product,226,0.448,84396758,926183,0.088,Low,High
+M0017,Healthcare,Europe,Enterprise,CFO,666,0.378,143608060,496038,0.092,High,High
+M0018,Healthcare,Europe,Enterprise,CRO,288,0.304,32970551,358650,0.127,High,High
+M0019,Healthcare,Europe,Enterprise,Strategy,429,0.283,41874124,344907,0.121,High,High
+M0020,Healthcare,Europe,Enterprise,Product,741,0.253,99253736,588255,0.063,High,High
+M0021,Healthcare,Europe,Mid-Market,CFO,1330,0.416,109256810,171714,0.077,Medium,High
+M0022,Healthcare,Europe,Mid-Market,CRO,1303,0.337,49234530,106784,0.07,Medium,High
+M0023,Healthcare,Europe,Mid-Market,Strategy,952,0.222,22754985,107668,0.13,High,High
+M0024,Healthcare,Europe,Mid-Market,Product,973,0.292,59158747,231356,0.049,High,High
+M0025,Healthcare,APAC,Strategic,CFO,254,0.343,107888221,1076833,0.045,Medium,High
+M0026,Healthcare,APAC,Strategic,CRO,237,0.445,78270016,706802,0.041,Medium,High
+M0027,Healthcare,APAC,Strategic,Strategy,135,0.269,40687507,1120405,0.054,Medium,High
+M0028,Healthcare,APAC,Strategic,Product,125,0.444,37595566,752664,0.123,High,High
+M0029,Healthcare,APAC,Enterprise,CFO,423,0.346,85882728,510260,0.052,Low,High
+M0030,Healthcare,APAC,Enterprise,CRO,487,0.424,113127723,521777,0.104,Medium,High
+M0031,Healthcare,APAC,Enterprise,Strategy,507,0.472,165635220,692154,0.041,Medium,High
+M0032,Healthcare,APAC,Enterprise,Product,659,0.235,47667586,342001,0.042,Low,High
+M0033,Healthcare,APAC,Mid-Market,CFO,913,0.465,120030058,245849,0.039,Low,High
+M0034,Healthcare,APAC,Mid-Market,CRO,1096,0.273,50150387,159629,0.077,Medium,High
+M0035,Healthcare,APAC,Mid-Market,Strategy,1167,0.462,113295664,210136,0.1,Medium,High
+M0036,Healthcare,APAC,Mid-Market,Product,1454,0.275,65311898,181490,0.127,High,High
+M0037,Healthcare,Middle East,Strategic,CFO,105,0.334,39008143,967212,0.036,High,High
+M0038,Healthcare,Middle East,Strategic,CRO,94,0.464,36216750,790814,0.128,Medium,High
+M0039,Healthcare,Middle East,Strategic,Strategy,71,0.377,27022250,1009536,0.088,Medium,High
+M0040,Healthcare,Middle East,Strategic,Product,56,0.33,15636075,940120,0.07,Low,High
+M0041,Healthcare,Middle East,Enterprise,CFO,200,0.335,45773555,594076,0.047,High,High
+M0042,Healthcare,Middle East,Enterprise,CRO,320,0.437,77135548,525332,0.039,Medium,High
+M0043,Healthcare,Middle East,Enterprise,Strategy,261,0.397,50298696,485429,0.128,Medium,High
+M0044,Healthcare,Middle East,Enterprise,Product,224,0.262,27263211,516161,0.054,High,High
+M0045,Healthcare,Middle East,Mid-Market,CFO,897,0.411,55850027,131732,0.118,Low,High
+M0046,Healthcare,Middle East,Mid-Market,CRO,500,0.272,24276428,170003,0.121,High,High
+M0047,Healthcare,Middle East,Mid-Market,Strategy,771,0.27,22523577,108198,0.137,Medium,High
+M0048,Healthcare,Middle East,Mid-Market,Product,783,0.475,40246896,120236,0.127,Medium,High
+M0049,Financial Services,North America,Strategic,CFO,229,0.375,99988629,1012479,0.081,High,High
+M0050,Financial Services,North America,Strategic,CRO,170,0.269,33445508,696542,0.035,High,High
+M0051,Financial Services,North America,Strategic,Strategy,338,0.464,134343232,856606,0.042,Medium,High
+M0052,Financial Services,North America,Strategic,Product,255,0.392,70233005,780679,0.088,Medium,High
+M0053,Financial Services,North America,Enterprise,CFO,711,0.297,97277425,400579,0.105,Medium,High
+M0054,Financial Services,North America,Enterprise,CRO,881,0.298,126617574,459317,0.057,High,High
+M0055,Financial Services,North America,Enterprise,Strategy,761,0.335,144803589,568002,0.118,High,High
+M0056,Financial Services,North America,Enterprise,Product,915,0.294,84486598,348961,0.106,Medium,High
+M0057,Financial Services,North America,Mid-Market,CFO,975,0.232,28377841,109091,0.083,High,High
+M0058,Financial Services,North America,Mid-Market,CRO,2048,0.32,88551063,128684,0.104,Low,High
+M0059,Financial Services,North America,Mid-Market,Strategy,1614,0.277,46122354,103164,0.094,High,High
+M0060,Financial Services,North America,Mid-Market,Product,1148,0.428,91102695,206017,0.099,Medium,High
+M0061,Financial Services,Europe,Strategic,CFO,263,0.456,154132676,1117574,0.082,High,High
+M0062,Financial Services,Europe,Strategic,CRO,189,0.356,63644631,900867,0.043,Medium,High
+M0063,Financial Services,Europe,Strategic,Strategy,187,0.452,62082117,734491,0.059,Medium,High
+M0064,Financial Services,Europe,Strategic,Product,168,0.326,56120840,1138557,0.057,Medium,High
+M0065,Financial Services,Europe,Enterprise,CFO,807,0.319,143412140,484422,0.114,High,High
+M0066,Financial Services,Europe,Enterprise,CRO,661,0.411,158593542,555972,0.064,Medium,High
+M0067,Financial Services,Europe,Enterprise,Strategy,531,0.397,143281090,679679,0.123,High,High
+M0068,Financial Services,Europe,Enterprise,Product,331,0.374,38327959,344012,0.049,Medium,High
+M0069,Financial Services,Europe,Mid-Market,CFO,1244,0.305,77873659,178473,0.115,Medium,High
+M0070,Financial Services,Europe,Mid-Market,CRO,1832,0.241,107276488,231405,0.04,High,High
+M0071,Financial Services,Europe,Mid-Market,Strategy,844,0.423,35035015,98134,0.135,Low,High
+M0072,Financial Services,Europe,Mid-Market,Product,952,0.282,28990729,119986,0.094,Medium,High
+M0073,Financial Services,APAC,Strategic,CFO,200,0.264,46760229,770096,0.046,Low,High
+M0074,Financial Services,APAC,Strategic,CRO,219,0.456,109422367,1043537,0.043,Medium,High
+M0075,Financial Services,APAC,Strategic,Strategy,195,0.421,63782478,776935,0.071,Medium,High
+M0076,Financial Services,APAC,Strategic,Product,240,0.388,55586996,663266,0.046,High,High
+M0077,Financial Services,APAC,Enterprise,CFO,844,0.333,207186208,641027,0.1,High,High
+M0078,Financial Services,APAC,Enterprise,CRO,673,0.435,144161051,468980,0.122,Low,High
+M0079,Financial Services,APAC,Enterprise,Strategy,516,0.341,83819807,476368,0.087,Medium,High
+M0080,Financial Services,APAC,Enterprise,Product,494,0.427,84788406,446621,0.109,Medium,High
+M0081,Financial Services,APAC,Mid-Market,CFO,1097,0.242,71907986,235536,0.115,Medium,High
+M0082,Financial Services,APAC,Mid-Market,CRO,1947,0.224,89760179,196011,0.108,Medium,High
+M0083,Financial Services,APAC,Mid-Market,Strategy,1609,0.358,134951010,234281,0.07,Medium,High
+M0084,Financial Services,APAC,Mid-Market,Product,1182,0.28,36142817,121340,0.113,High,High
+M0085,Financial Services,Middle East,Strategic,CFO,83,0.412,36963123,939930,0.138,Medium,High
+M0086,Financial Services,Middle East,Strategic,CRO,100,0.27,25189910,888533,0.067,Medium,High
+M0087,Financial Services,Middle East,Strategic,Strategy,73,0.473,33021014,956327,0.102,High,High
+M0088,Financial Services,Middle East,Strategic,Product,69,0.294,21031940,1151968,0.054,Low,High
+M0089,Financial Services,Middle East,Enterprise,CFO,203,0.237,18747220,338840,0.101,Low,High
+M0090,Financial Services,Middle East,Enterprise,CRO,355,0.242,32663591,362102,0.115,Medium,High
+M0091,Financial Services,Middle East,Enterprise,Strategy,427,0.319,62099234,455898,0.139,Medium,High
+M0092,Financial Services,Middle East,Enterprise,Product,370,0.246,51440408,627950,0.063,Low,High
+M0093,Financial Services,Middle East,Mid-Market,CFO,768,0.24,44109692,208096,0.107,Medium,High
+M0094,Financial Services,Middle East,Mid-Market,CRO,590,0.404,37839530,151190,0.132,High,High
+M0095,Financial Services,Middle East,Mid-Market,Strategy,473,0.362,21794672,127286,0.042,Low,High
+M0096,Financial Services,Middle East,Mid-Market,Product,901,0.434,43145987,122598,0.084,Medium,High
+M0097,Technology,North America,Strategic,CFO,297,0.36,136363250,1109023,0.039,Medium,Medium
+M0098,Technology,North America,Strategic,CRO,234,0.28,46213919,671753,0.096,High,Low
+M0099,Technology,North America,Strategic,Strategy,325,0.335,102524103,941668,0.081,High,Low
+M0100,Technology,North America,Strategic,Product,325,0.307,68217364,759680,0.078,Medium,Medium
+M0101,Technology,North America,Enterprise,CFO,435,0.243,57071313,469488,0.137,Medium,Low
+M0102,Technology,North America,Enterprise,CRO,789,0.234,94927267,489676,0.101,High,Low
+M0103,Technology,North America,Enterprise,Strategy,862,0.461,264689792,666084,0.048,High,Low
+M0104,Technology,North America,Enterprise,Product,664,0.224,46700307,348868,0.139,High,Medium
+M0105,Technology,North America,Mid-Market,CFO,2359,0.26,114036711,161676,0.079,Medium,Medium
+M0106,Technology,North America,Mid-Market,CRO,1891,0.258,114355480,223232,0.113,Low,Low
+M0107,Technology,North America,Mid-Market,Strategy,2288,0.442,161844777,160037,0.121,Medium,Medium
+M0108,Technology,North America,Mid-Market,Product,1717,0.36,130554917,234681,0.115,Medium,Medium
+M0109,Technology,Europe,Strategic,CFO,168,0.369,63798635,894907,0.068,Medium,Medium
+M0110,Technology,Europe,Strategic,CRO,233,0.433,85752386,809493,0.048,High,Medium
+M0111,Technology,Europe,Strategic,Strategy,137,0.357,55224276,1129123,0.078,Medium,Low
+M0112,Technology,Europe,Strategic,Product,129,0.472,55073579,1005007,0.103,High,Medium
+M0113,Technology,Europe,Enterprise,CFO,748,0.451,226426358,583648,0.1,Medium,Medium
+M0114,Technology,Europe,Enterprise,CRO,829,0.333,202511163,698652,0.082,Medium,Low
+M0115,Technology,Europe,Enterprise,Strategy,546,0.235,63708994,496524,0.05,Medium,Low
+M0116,Technology,Europe,Enterprise,Product,444,0.378,94391301,624906,0.087,Medium,Low
+M0117,Technology,Europe,Mid-Market,CFO,1128,0.339,72734782,165400,0.106,Low,Medium
+M0118,Technology,Europe,Mid-Market,CRO,1189,0.386,74965110,155561,0.083,Medium,Medium
+M0119,Technology,Europe,Mid-Market,Strategy,1105,0.319,59064414,167561,0.139,Medium,Medium
+M0120,Technology,Europe,Mid-Market,Product,1547,0.445,136438758,220214,0.122,High,Low
+M0121,Technology,APAC,Strategic,CFO,244,0.269,68899497,912801,0.101,High,Low
+M0122,Technology,APAC,Strategic,CRO,228,0.371,69969903,787795,0.069,Medium,Low
+M0123,Technology,APAC,Strategic,Strategy,162,0.473,90125125,1176169,0.062,High,Medium
+M0124,Technology,APAC,Strategic,Product,222,0.308,47431583,770764,0.05,High,Medium
+M0125,Technology,APAC,Enterprise,CFO,425,0.323,91770492,581318,0.083,Medium,Medium
+M0126,Technology,APAC,Enterprise,CRO,828,0.248,117980076,547189,0.1,High,Medium
+M0127,Technology,APAC,Enterprise,Strategy,835,0.385,214605779,667566,0.103,Low,Low
+M0128,Technology,APAC,Enterprise,Product,582,0.25,76190507,581829,0.076,Medium,Medium
+M0129,Technology,APAC,Mid-Market,CFO,1825,0.246,101701878,196985,0.134,Medium,Medium
+M0130,Technology,APAC,Mid-Market,CRO,1516,0.467,138485482,186294,0.092,High,Medium
+M0131,Technology,APAC,Mid-Market,Strategy,1267,0.269,38864387,114031,0.105,Medium,Low
+M0132,Technology,APAC,Mid-Market,Product,1220,0.477,123228006,235282,0.057,Medium,Low
+M0133,Technology,Middle East,Strategic,CFO,112,0.425,35743742,652973,0.139,Medium,Low
+M0134,Technology,Middle East,Strategic,CRO,74,0.227,11739468,665582,0.097,Low,Medium
+M0135,Technology,Middle East,Strategic,Strategy,63,0.329,15942565,769169,0.085,High,Low
+M0136,Technology,Middle East,Strategic,Product,134,0.466,39085192,695471,0.067,Medium,Low
+M0137,Technology,Middle East,Enterprise,CFO,340,0.324,70568308,557042,0.043,Low,Low
+M0138,Technology,Middle East,Enterprise,CRO,215,0.382,43092637,499703,0.091,Medium,Medium
+M0139,Technology,Middle East,Enterprise,Strategy,418,0.442,97085582,525480,0.128,Medium,Medium
+M0140,Technology,Middle East,Enterprise,Product,317,0.245,32422559,463852,0.074,Low,Medium
+M0141,Technology,Middle East,Mid-Market,CFO,997,0.242,52076592,187687,0.12,Medium,Medium
+M0142,Technology,Middle East,Mid-Market,CRO,661,0.447,32105532,103486,0.137,Medium,Medium
+M0143,Technology,Middle East,Mid-Market,Strategy,769,0.275,25031872,118368,0.072,Medium,Low
+M0144,Technology,Middle East,Mid-Market,Product,571,0.43,35380406,160109,0.038,Medium,Medium
+M0145,Manufacturing,North America,Strategic,CFO,205,0.267,50369418,800210,0.042,Medium,Low
+M0146,Manufacturing,North America,Strategic,CRO,127,0.276,40125331,1090226,0.052,Medium,Medium
+M0147,Manufacturing,North America,Strategic,Strategy,124,0.261,22725321,702179,0.064,Medium,Medium
+M0148,Manufacturing,North America,Strategic,Product,238,0.276,70188324,1187234,0.08,Medium,Medium
+M0149,Manufacturing,North America,Enterprise,CFO,729,0.232,119463681,614218,0.036,Medium,Low
+M0150,Manufacturing,North America,Enterprise,CRO,791,0.295,74496464,304052,0.113,Low,Medium
+M0151,Manufacturing,North America,Enterprise,Strategy,753,0.35,89024027,337788,0.125,Low,Low
+M0152,Manufacturing,North America,Enterprise,Product,356,0.301,57924611,600626,0.109,Medium,Low
+M0153,Manufacturing,North America,Mid-Market,CFO,1151,0.265,64841781,184857,0.044,High,Low
+M0154,Manufacturing,North America,Mid-Market,CRO,1247,0.356,83437485,179001,0.058,High,Low
+M0155,Manufacturing,North America,Mid-Market,Strategy,884,0.358,57609929,182038,0.111,High,Low
+M0156,Manufacturing,North America,Mid-Market,Product,925,0.287,31078016,130073,0.115,Medium,Low
+M0157,Manufacturing,Europe,Strategic,CFO,205,0.367,96964195,1120711,0.103,High,Medium
+M0158,Manufacturing,Europe,Strategic,CRO,159,0.238,44251390,1113688,0.119,Medium,Medium
+M0159,Manufacturing,Europe,Strategic,Strategy,208,0.34,48756772,689434,0.122,Low,Low
+M0160,Manufacturing,Europe,Strategic,Product,208,0.371,48130723,693015,0.103,Medium,Medium
+M0161,Manufacturing,Europe,Enterprise,CFO,326,0.337,85218091,674507,0.088,Low,Low
+M0162,Manufacturing,Europe,Enterprise,CRO,472,0.356,86591317,490787,0.131,Medium,Medium
+M0163,Manufacturing,Europe,Enterprise,Strategy,571,0.307,61274715,349548,0.106,Medium,Low
+M0164,Manufacturing,Europe,Enterprise,Product,290,0.393,47455398,462650,0.049,Medium,Low
+M0165,Manufacturing,Europe,Mid-Market,CFO,982,0.387,99640544,227990,0.045,Medium,Medium
+M0166,Manufacturing,Europe,Mid-Market,CRO,913,0.267,55664291,217473,0.055,High,Low
+M0167,Manufacturing,Europe,Mid-Market,Strategy,1460,0.425,141490753,228027,0.039,Medium,Low
+M0168,Manufacturing,Europe,Mid-Market,Product,764,0.267,37586767,204733,0.04,Medium,Low
+M0169,Manufacturing,APAC,Strategic,CFO,210,0.416,112593521,1120735,0.06,High,Medium
+M0170,Manufacturing,APAC,Strategic,CRO,140,0.466,76174155,1111999,0.117,Medium,Medium
+M0171,Manufacturing,APAC,Strategic,Strategy,132,0.377,45392083,912147,0.127,Medium,Low
+M0172,Manufacturing,APAC,Strategic,Product,231,0.242,41160033,818099,0.13,Low,Medium
+M0173,Manufacturing,APAC,Enterprise,CFO,396,0.337,48186754,313982,0.041,Medium,Low
+M0174,Manufacturing,APAC,Enterprise,CRO,317,0.278,32566557,351948,0.118,Low,Medium
+M0175,Manufacturing,APAC,Enterprise,Strategy,662,0.256,90700736,535196,0.13,Low,Low
+M0176,Manufacturing,APAC,Enterprise,Product,579,0.378,70575050,358293,0.06,Low,Low
+M0177,Manufacturing,APAC,Mid-Market,CFO,1542,0.382,149723822,221027,0.098,Low,Low
+M0178,Manufacturing,APAC,Mid-Market,CRO,1135,0.22,62818477,239596,0.079,Medium,Low
+M0179,Manufacturing,APAC,Mid-Market,Strategy,730,0.468,80376617,235267,0.037,High,Low
+M0180,Manufacturing,APAC,Mid-Market,Product,938,0.414,63045040,180387,0.06,Medium,Low
+M0181,Manufacturing,Middle East,Strategic,CFO,86,0.312,31010837,1004992,0.122,Medium,Medium
+M0182,Manufacturing,Middle East,Strategic,CRO,65,0.406,31309268,1129911,0.056,High,Low
+M0183,Manufacturing,Middle East,Strategic,Strategy,83,0.324,30828854,1146395,0.114,Low,Medium
+M0184,Manufacturing,Middle East,Strategic,Product,48,0.291,13022455,1035896,0.113,High,Medium
+M0185,Manufacturing,Middle East,Enterprise,CFO,180,0.4,47382300,572250,0.119,Medium,Low
+M0186,Manufacturing,Middle East,Enterprise,CRO,291,0.267,38213509,468407,0.043,Medium,Medium
+M0187,Manufacturing,Middle East,Enterprise,Strategy,291,0.331,46649319,484311,0.039,High,Medium
+M0188,Manufacturing,Middle East,Enterprise,Product,203,0.475,29449033,339343,0.073,High,Low
+M0189,Manufacturing,Middle East,Mid-Market,CFO,767,0.378,41040040,123090,0.042,High,Medium
+M0190,Manufacturing,Middle East,Mid-Market,CRO,616,0.228,30665584,207944,0.135,Medium,Low
+M0191,Manufacturing,Middle East,Mid-Market,Strategy,509,0.323,19685929,119739,0.038,Low,Medium
+M0192,Manufacturing,Middle East,Mid-Market,Product,727,0.288,31066331,164862,0.108,High,Low

@@ -1,0 +1,1001 @@
+account_id,account_name,account_type,industry,geography,country,region,company_size,employee_band,revenue_band,buyer_persona_primary,buyer_persona_secondary,account_tier,current_customer_flag,strategic_account_flag,digital_maturity_score,data_intensity_score,propensity_score,sales_coverage_flag,owner_type
+A0001,Crescent Solutions 001,Prospect,Healthcare,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,85,73,72,Covered,Hunter
+A0002,Atlas Global 002,Customer,Technology,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,Yes,No,63,84,64,Covered,Farmer
+A0003,Meridian Insights 003,Prospect,Technology,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,75,68,72,Covered,Hunter
+A0004,BluePeak Industries 004,Customer,Financial Services,APAC,Australia,Australia,Strategic,10000+,$5B+,CRO,CFO,Tier 1,Yes,Yes,49,88,66,Covered,Farmer
+A0005,Clearview Ventures 005,Customer,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,62,73,63,Covered,Farmer
+A0006,Horizon Enterprises 006,Customer,Manufacturing,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,Yes,No,76,89,89,Uncovered,No Owner
+A0007,Frontier Digital 007,Prospect,Technology,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,84,66,71,Covered,Hunter
+A0008,Trinity Global 008,Prospect,Financial Services,North America,Canada,Canada,Strategic,10000+,$5B+,Strategy,Product,Tier 1,No,Yes,76,78,82,Uncovered,No Owner
+A0009,Meridian Ventures 009,Customer,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,Yes,No,55,85,69,Covered,Farmer
+A0010,Nexus Enterprises 010,Prospect,Technology,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,99,91,91,Uncovered,No Owner
+A0011,Orion Systems 011,Prospect,Technology,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,55,91,68,Covered,Hunter
+A0012,BluePeak Holdings 012,Prospect,Technology,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,57,89,58,Uncovered,No Owner
+A0013,Frontier Networks 013,Customer,Financial Services,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,68,84,79,Covered,Farmer
+A0014,Trinity Global 014,Prospect,Technology,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,86,90,70,Uncovered,No Owner
+A0015,Nova Partners 015,Prospect,Financial Services,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,53,75,62,Covered,Hunter
+A0016,Nexus Systems 016,Prospect,Manufacturing,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,43,67,48,Uncovered,No Owner
+A0017,Northstar Networks 017,Customer,Technology,APAC,Japan,Japan,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,Yes,Yes,73,71,73,Uncovered,No Owner
+A0018,Horizon Technologies 018,Prospect,Financial Services,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,45,69,55,Uncovered,No Owner
+A0019,Horizon Industries 019,Prospect,Financial Services,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,66,73,55,Uncovered,No Owner
+A0020,Atlas Advisory 020,Prospect,Healthcare,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,69,72,77,Uncovered,No Owner
+A0021,Nexus Systems 021,Prospect,Technology,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,66,72,69,Uncovered,No Owner
+A0022,Nova Labs 022,Prospect,Healthcare,North America,United States,US West,Strategic,10000+,$5B+,CRO,CFO,Tier 1,No,Yes,85,81,77,Uncovered,No Owner
+A0023,Clearview Systems 023,Prospect,Technology,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,76,60,89,Covered,Hunter
+A0024,Evergreen Data 024,Customer,Manufacturing,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,68,90,93,Covered,Farmer
+A0025,Pioneer Solutions 025,Customer,Financial Services,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,Yes,No,60,70,74,Covered,Farmer
+A0026,Apex Partners 026,Prospect,Technology,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,78,94,78,Uncovered,No Owner
+A0027,Orion Data 027,Prospect,Financial Services,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,Yes,61,71,70,Covered,Hunter
+A0028,Sterling Capital 028,Prospect,Manufacturing,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,64,70,71,Uncovered,No Owner
+A0029,Summit Systems 029,Prospect,Financial Services,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,75,71,61,Uncovered,No Owner
+A0030,Vertex Data 030,Customer,Manufacturing,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,Yes,No,59,71,70,Covered,Farmer
+A0031,Quantum Insights 031,Customer,Financial Services,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,Yes,No,78,68,56,Uncovered,No Owner
+A0032,Catalyst Capital 032,Prospect,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,81,73,80,Covered,Hunter
+A0033,Apex Industries 033,Prospect,Manufacturing,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,73,65,87,Uncovered,No Owner
+A0034,Northstar Digital 034,Prospect,Financial Services,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,95,93,98,Uncovered,No Owner
+A0035,Evergreen Enterprises 035,Prospect,Technology,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,66,62,64,Covered,Hunter
+A0036,Meridian Group 036,Prospect,Technology,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,81,75,86,Uncovered,No Owner
+A0037,Northstar Capital 037,Customer,Financial Services,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,No,55,75,72,Covered,Farmer
+A0038,BluePeak Advisory 038,Prospect,Manufacturing,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,78,58,65,Covered,Hunter
+A0039,Pioneer Systems 039,Customer,Manufacturing,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,45,46,54,Uncovered,No Owner
+A0040,Apex Enterprises 040,Prospect,Financial Services,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,67,62,67,Covered,Hunter
+A0041,Atlas Industries 041,Prospect,Manufacturing,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,54,70,59,Uncovered,No Owner
+A0042,BluePeak Analytics 042,Prospect,Financial Services,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,80,72,79,Covered,Hunter
+A0043,Nova Labs 043,Customer,Financial Services,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,Yes,No,63,81,47,Covered,Farmer
+A0044,Vertex Systems 044,Prospect,Financial Services,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,63,82,68,Covered,Hunter
+A0045,Nova Analytics 045,Customer,Technology,Europe,Germany,DACH,Strategic,10000+,$5B+,CRO,CFO,Tier 1,Yes,Yes,73,83,59,Uncovered,No Owner
+A0046,Clearview Holdings 046,Prospect,Healthcare,Europe,United Kingdom,UKI,Strategic,10000+,$5B+,Strategy,Product,Tier 1,No,Yes,46,95,71,Uncovered,No Owner
+A0047,Vertex Systems 047,Customer,Manufacturing,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,No,53,74,36,Covered,Farmer
+A0048,Quantum Holdings 048,Customer,Healthcare,Europe,Sweden,Nordics,Strategic,10000+,$5B+,CFO,Product,Tier 1,Yes,Yes,53,63,60,Uncovered,No Owner
+A0049,Meridian Analytics 049,Customer,Manufacturing,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,No,84,55,66,Uncovered,No Owner
+A0050,Orion Networks 050,Prospect,Manufacturing,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,60,75,55,Uncovered,No Owner
+A0051,Meridian Analytics 051,Customer,Technology,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,92,88,72,Uncovered,No Owner
+A0052,Sterling Industries 052,Prospect,Technology,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,67,75,56,Covered,Hunter
+A0053,Horizon Holdings 053,Prospect,Technology,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,69,88,95,Covered,Hunter
+A0054,Orion Analytics 054,Customer,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,83,87,86,Covered,Farmer
+A0055,Horizon Digital 055,Prospect,Financial Services,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,76,92,78,Covered,Hunter
+A0056,Orion Health 056,Prospect,Financial Services,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,78,86,81,Covered,Hunter
+A0057,Meridian Industries 057,Prospect,Manufacturing,Europe,France,France,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,49,90,71,Uncovered,No Owner
+A0058,Evergreen Analytics 058,Customer,Technology,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,No,87,93,98,Covered,Farmer
+A0059,BluePeak Digital 059,Customer,Manufacturing,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,Yes,No,67,50,66,Covered,Farmer
+A0060,Atlas Global 060,Prospect,Technology,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,85,77,65,Uncovered,No Owner
+A0061,Catalyst Holdings 061,Prospect,Technology,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,Yes,95,80,67,Uncovered,No Owner
+A0062,Apex Labs 062,Prospect,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,79,67,57,Covered,Hunter
+A0063,Frontier Health 063,Customer,Healthcare,Europe,United Kingdom,UKI,Strategic,10000+,$5B+,CRO,Strategy,Tier 1,Yes,Yes,60,77,56,Covered,Farmer
+A0064,Trinity Solutions 064,Customer,Healthcare,North America,Canada,Canada,Strategic,10000+,$5B+,Strategy,Product,Tier 1,Yes,Yes,69,82,50,Uncovered,No Owner
+A0065,Catalyst Manufacturing 065,Prospect,Technology,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,71,72,68,Covered,Hunter
+A0066,Horizon Labs 066,Customer,Healthcare,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,Yes,No,43,78,70,Covered,Farmer
+A0067,BluePeak Health 067,Prospect,Financial Services,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,80,99,89,Uncovered,No Owner
+A0068,Evergreen Solutions 068,Customer,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,Yes,No,42,64,52,Covered,Farmer
+A0069,Nova Digital 069,Customer,Technology,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,Yes,No,84,82,88,Covered,Farmer
+A0070,Clearview Advisory 070,Customer,Technology,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,49,79,72,Covered,Farmer
+A0071,Evergreen Enterprises 071,Customer,Technology,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,83,72,75,Covered,Farmer
+A0072,Nexus Enterprises 072,Prospect,Manufacturing,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,58,70,54,Uncovered,No Owner
+A0073,Clearview Health 073,Prospect,Manufacturing,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,70,47,49,Uncovered,No Owner
+A0074,BluePeak Networks 074,Prospect,Manufacturing,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,55,96,57,Uncovered,No Owner
+A0075,Orion Data 075,Customer,Healthcare,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,Yes,No,59,67,79,Uncovered,No Owner
+A0076,Atlas Insights 076,Prospect,Technology,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,87,84,76,Uncovered,No Owner
+A0077,Northstar Systems 077,Prospect,Technology,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,71,80,83,Uncovered,No Owner
+A0078,BluePeak Industries 078,Customer,Healthcare,APAC,Singapore,Singapore,Strategic,10000+,$5B+,CRO,Strategy,Tier 1,Yes,Yes,51,86,67,Uncovered,No Owner
+A0079,Nexus Digital 079,Customer,Healthcare,Middle East,Saudi Arabia,Saudi Arabia,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,Yes,Yes,59,61,75,Uncovered,No Owner
+A0080,Summit Digital 080,Prospect,Technology,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,83,80,77,Covered,Hunter
+A0081,BluePeak Insights 081,Customer,Technology,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,91,96,85,Uncovered,No Owner
+A0082,Pioneer Insights 082,Customer,Technology,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,Yes,No,71,95,71,Covered,Farmer
+A0083,Sterling Industries 083,Prospect,Manufacturing,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,68,72,79,Uncovered,No Owner
+A0084,Orion Holdings 084,Customer,Technology,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,Yes,No,85,86,62,Covered,Farmer
+A0085,Vertex Analytics 085,Prospect,Healthcare,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,77,64,59,Uncovered,No Owner
+A0086,Orion Insights 086,Customer,Technology,North America,United States,US East,Strategic,10000+,$5B+,CFO,Strategy,Tier 1,Yes,Yes,91,73,68,Covered,Farmer
+A0087,Vertex Industries 087,Prospect,Technology,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,83,69,62,Uncovered,No Owner
+A0088,Clearview Holdings 088,Customer,Technology,APAC,Japan,Japan,Strategic,10000+,$5B+,CFO,Strategy,Tier 1,Yes,Yes,88,79,76,Covered,Farmer
+A0089,Summit Analytics 089,Prospect,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,67,85,73,Uncovered,No Owner
+A0090,Horizon Holdings 090,Prospect,Financial Services,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,47,70,60,Covered,Hunter
+A0091,Northstar Global 091,Prospect,Manufacturing,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,Yes,72,68,74,Uncovered,No Owner
+A0092,Northstar Solutions 092,Prospect,Manufacturing,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,58,72,53,Covered,Hunter
+A0093,Crescent Technologies 093,Prospect,Healthcare,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,66,79,61,Covered,Hunter
+A0094,Nexus Global 094,Prospect,Healthcare,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,71,75,72,Covered,Hunter
+A0095,BluePeak Partners 095,Prospect,Financial Services,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,No,69,91,86,Uncovered,No Owner
+A0096,Vertex Ventures 096,Prospect,Healthcare,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,66,79,73,Uncovered,No Owner
+A0097,BluePeak Ventures 097,Prospect,Technology,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,83,73,67,Uncovered,No Owner
+A0098,Summit Insights 098,Prospect,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,70,77,79,Covered,Hunter
+A0099,Apex Manufacturing 099,Customer,Healthcare,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,59,85,66,Uncovered,No Owner
+A0100,Pioneer Manufacturing 100,Customer,Manufacturing,Europe,Germany,DACH,Strategic,10000+,$5B+,CFO,CRO,Tier 1,Yes,Yes,53,83,74,Covered,Farmer
+A0101,Meridian Holdings 101,Customer,Financial Services,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,Yes,82,78,90,Uncovered,No Owner
+A0102,Clearview Partners 102,Prospect,Healthcare,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,Product,Strategy,Tier 3,No,Yes,86,72,69,Covered,Hunter
+A0103,Trinity Group 103,Prospect,Financial Services,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,67,83,71,Covered,Hunter
+A0104,Clearview Analytics 104,Prospect,Technology,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,84,93,75,Covered,Hunter
+A0105,Evergreen Systems 105,Customer,Financial Services,North America,United States,US West,Strategic,10000+,$5B+,Product,Strategy,Tier 1,Yes,Yes,64,80,74,Covered,Farmer
+A0106,Atlas Ventures 106,Prospect,Technology,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,85,85,86,Covered,Hunter
+A0107,Meridian Technologies 107,Prospect,Healthcare,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,71,75,69,Uncovered,No Owner
+A0108,Atlas Insights 108,Customer,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,66,91,66,Uncovered,No Owner
+A0109,Evergreen Technologies 109,Customer,Financial Services,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,No,70,73,62,Covered,Farmer
+A0110,Quantum Manufacturing 110,Prospect,Technology,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,67,82,72,Uncovered,No Owner
+A0111,Clearview Insights 111,Customer,Manufacturing,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,Yes,No,68,63,65,Uncovered,No Owner
+A0112,Orion Advisory 112,Customer,Manufacturing,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,Yes,53,65,66,Covered,Farmer
+A0113,Vertex Systems 113,Prospect,Technology,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,54,84,59,Covered,Hunter
+A0114,Meridian Technologies 114,Customer,Financial Services,North America,United States,US East,Strategic,10000+,$5B+,CRO,Strategy,Tier 1,Yes,Yes,57,99,85,Uncovered,No Owner
+A0115,Evergreen Partners 115,Prospect,Manufacturing,Middle East,United Arab Emirates,UAE,Strategic,10000+,$5B+,CRO,Product,Tier 1,No,Yes,65,70,69,Uncovered,No Owner
+A0116,Sterling Labs 116,Customer,Technology,North America,United States,US East,Strategic,10000+,$5B+,Product,CFO,Tier 1,Yes,Yes,85,86,79,Uncovered,No Owner
+A0117,Clearview Capital 117,Prospect,Healthcare,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,56,82,65,Uncovered,No Owner
+A0118,Summit Insights 118,Customer,Manufacturing,Europe,Sweden,Nordics,Strategic,10000+,$5B+,Product,CRO,Tier 1,Yes,Yes,57,73,54,Covered,Farmer
+A0119,Nexus Labs 119,Customer,Technology,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,Yes,No,47,77,54,Covered,Farmer
+A0120,Pioneer Networks 120,Prospect,Financial Services,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,46,91,66,Covered,Hunter
+A0121,Horizon Data 121,Customer,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,Yes,No,71,72,62,Covered,Farmer
+A0122,Summit Ventures 122,Prospect,Financial Services,APAC,Singapore,Singapore,Strategic,10000+,$5B+,CRO,CFO,Tier 1,No,Yes,79,60,55,Covered,Hunter
+A0123,Orion Systems 123,Prospect,Technology,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,70,83,62,Uncovered,No Owner
+A0124,Horizon Labs 124,Prospect,Financial Services,APAC,Japan,Japan,Strategic,10000+,$5B+,Product,CRO,Tier 1,No,Yes,81,99,85,Covered,Hunter
+A0125,Nova Data 125,Customer,Manufacturing,APAC,Japan,Japan,Strategic,10000+,$5B+,Product,CRO,Tier 1,Yes,Yes,47,73,64,Uncovered,No Owner
+A0126,Pioneer Systems 126,Prospect,Manufacturing,APAC,Japan,Japan,Strategic,10000+,$5B+,Product,CFO,Tier 1,No,Yes,69,51,60,Covered,Hunter
+A0127,Clearview Labs 127,Prospect,Healthcare,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,63,70,76,Uncovered,No Owner
+A0128,Pioneer Group 128,Prospect,Technology,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,80,85,78,Uncovered,No Owner
+A0129,Crescent Partners 129,Customer,Technology,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,Yes,No,68,70,75,Uncovered,No Owner
+A0130,Atlas Global 130,Customer,Financial Services,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,72,74,61,Covered,Farmer
+A0131,Pioneer Networks 131,Prospect,Technology,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,73,89,62,Uncovered,No Owner
+A0132,Catalyst Manufacturing 132,Prospect,Financial Services,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Product,Strategy,Tier 3,No,No,47,97,72,Covered,Hunter
+A0133,Clearview Global 133,Prospect,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,51,80,78,Uncovered,No Owner
+A0134,Catalyst Health 134,Prospect,Healthcare,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,58,76,73,Uncovered,No Owner
+A0135,Orion Data 135,Prospect,Financial Services,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,76,83,84,Uncovered,No Owner
+A0136,Meridian Solutions 136,Customer,Financial Services,North America,United States,US East,Strategic,10000+,$5B+,CRO,Strategy,Tier 1,Yes,Yes,62,63,54,Covered,Farmer
+A0137,BluePeak Technologies 137,Prospect,Technology,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,80,67,80,Uncovered,No Owner
+A0138,Trinity Enterprises 138,Customer,Financial Services,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,Yes,No,89,83,81,Covered,Farmer
+A0139,Trinity Technologies 139,Customer,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,No,61,71,69,Covered,Farmer
+A0140,Nexus Networks 140,Prospect,Financial Services,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,62,99,66,Covered,Hunter
+A0141,Summit Analytics 141,Prospect,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,Yes,74,69,66,Uncovered,No Owner
+A0142,Summit Data 142,Prospect,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,67,74,68,Covered,Hunter
+A0143,Trinity Enterprises 143,Prospect,Financial Services,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,76,88,79,Covered,Hunter
+A0144,Vertex Holdings 144,Prospect,Financial Services,Europe,Germany,DACH,Strategic,10000+,$5B+,Product,CFO,Tier 1,No,Yes,79,77,75,Covered,Hunter
+A0145,Clearview Systems 145,Prospect,Manufacturing,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,No,53,56,65,Covered,Hunter
+A0146,Meridian Capital 146,Prospect,Manufacturing,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,60,71,66,Uncovered,No Owner
+A0147,Catalyst Solutions 147,Prospect,Manufacturing,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,37,82,60,Uncovered,No Owner
+A0148,Orion Capital 148,Prospect,Healthcare,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,79,80,61,Covered,Hunter
+A0149,Quantum Ventures 149,Prospect,Technology,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,94,88,98,Uncovered,No Owner
+A0150,Evergreen Technologies 150,Prospect,Healthcare,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,69,65,79,Covered,Hunter
+A0151,Orion Manufacturing 151,Prospect,Healthcare,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,59,75,70,Covered,Hunter
+A0152,Summit Manufacturing 152,Prospect,Manufacturing,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,61,75,75,Uncovered,No Owner
+A0153,Meridian Global 153,Prospect,Financial Services,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,61,87,80,Uncovered,No Owner
+A0154,Crescent Global 154,Prospect,Technology,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,58,70,80,Uncovered,No Owner
+A0155,Pioneer Advisory 155,Prospect,Financial Services,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,64,89,75,Uncovered,No Owner
+A0156,Frontier Advisory 156,Prospect,Manufacturing,North America,United States,US West,Strategic,10000+,$5B+,Product,CFO,Tier 1,No,Yes,67,73,57,Uncovered,No Owner
+A0157,Quantum Solutions 157,Prospect,Technology,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,No,63,87,87,Uncovered,No Owner
+A0158,Orion Health 158,Prospect,Technology,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,68,68,57,Covered,Hunter
+A0159,Crescent Capital 159,Customer,Manufacturing,Europe,Germany,DACH,Strategic,10000+,$5B+,Strategy,Product,Tier 1,Yes,Yes,54,82,60,Covered,Farmer
+A0160,Quantum Ventures 160,Prospect,Manufacturing,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,59,61,45,Uncovered,No Owner
+A0161,Crescent Partners 161,Prospect,Manufacturing,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,Yes,72,78,77,Covered,Hunter
+A0162,Evergreen Manufacturing 162,Prospect,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,87,87,68,Uncovered,No Owner
+A0163,Sterling Advisory 163,Prospect,Healthcare,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,78,73,71,Covered,Hunter
+A0164,Clearview Insights 164,Prospect,Manufacturing,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,61,70,40,Covered,Hunter
+A0165,BluePeak Systems 165,Customer,Healthcare,North America,Canada,Canada,Strategic,10000+,$5B+,CFO,Strategy,Tier 1,Yes,Yes,67,81,72,Covered,Farmer
+A0166,Clearview Data 166,Prospect,Healthcare,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,66,90,81,Uncovered,No Owner
+A0167,Nova Global 167,Customer,Healthcare,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,62,66,58,Covered,Farmer
+A0168,Northstar Health 168,Customer,Manufacturing,Middle East,Qatar,GCC,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,Yes,Yes,90,50,51,Covered,Farmer
+A0169,Pioneer Health 169,Prospect,Financial Services,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,56,99,71,Uncovered,No Owner
+A0170,Summit Enterprises 170,Customer,Financial Services,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,Yes,No,73,88,56,Covered,Farmer
+A0171,Vertex Ventures 171,Prospect,Technology,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,Yes,77,79,80,Covered,Hunter
+A0172,Vertex Ventures 172,Customer,Manufacturing,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,No,65,66,66,Uncovered,No Owner
+A0173,Nova Solutions 173,Prospect,Healthcare,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,85,84,69,Uncovered,No Owner
+A0174,Atlas Analytics 174,Customer,Technology,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,Yes,No,82,98,73,Uncovered,No Owner
+A0175,Trinity Networks 175,Customer,Technology,Europe,United Kingdom,UKI,Strategic,10000+,$5B+,Product,Strategy,Tier 1,Yes,Yes,85,85,78,Covered,Farmer
+A0176,Frontier Global 176,Prospect,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,48,90,49,Uncovered,No Owner
+A0177,Nova Advisory 177,Customer,Healthcare,APAC,Australia,Australia,Strategic,10000+,$5B+,Product,CRO,Tier 1,Yes,Yes,63,67,64,Covered,Farmer
+A0178,Catalyst Partners 178,Prospect,Financial Services,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,76,77,89,Uncovered,No Owner
+A0179,BluePeak Global 179,Prospect,Manufacturing,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,56,66,60,Covered,Hunter
+A0180,Northstar Global 180,Prospect,Healthcare,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,No,64,58,54,Covered,Hunter
+A0181,Atlas Data 181,Customer,Financial Services,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,51,73,71,Covered,Farmer
+A0182,Nova Capital 182,Customer,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,Yes,No,78,54,58,Covered,Farmer
+A0183,Northstar Systems 183,Customer,Healthcare,APAC,Japan,Japan,Strategic,10000+,$5B+,Strategy,CFO,Tier 1,Yes,Yes,75,98,73,Covered,Farmer
+A0184,Vertex Data 184,Customer,Manufacturing,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,Yes,No,72,73,83,Covered,Farmer
+A0185,Horizon Enterprises 185,Prospect,Financial Services,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,60,77,71,Covered,Hunter
+A0186,Pioneer Ventures 186,Customer,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,Yes,No,73,72,59,Covered,Farmer
+A0187,Trinity Manufacturing 187,Prospect,Healthcare,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,42,73,63,Uncovered,No Owner
+A0188,Catalyst Technologies 188,Customer,Technology,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,Yes,No,83,69,75,Covered,Farmer
+A0189,Pioneer Data 189,Prospect,Healthcare,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,52,79,67,Covered,Hunter
+A0190,Summit Insights 190,Prospect,Manufacturing,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,73,84,79,Uncovered,No Owner
+A0191,Orion Capital 191,Prospect,Financial Services,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,69,87,67,Uncovered,No Owner
+A0192,Horizon Enterprises 192,Prospect,Technology,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,76,94,86,Uncovered,No Owner
+A0193,Horizon Partners 193,Customer,Healthcare,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,64,66,61,Covered,Farmer
+A0194,Horizon Industries 194,Prospect,Manufacturing,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,67,55,63,Uncovered,No Owner
+A0195,Sterling Systems 195,Customer,Technology,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,Yes,No,83,80,59,Uncovered,No Owner
+A0196,Northstar Manufacturing 196,Prospect,Healthcare,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,66,82,74,Covered,Hunter
+A0197,Sterling Data 197,Prospect,Manufacturing,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,67,81,74,Covered,Hunter
+A0198,Orion Manufacturing 198,Prospect,Financial Services,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,62,92,78,Covered,Hunter
+A0199,Orion Ventures 199,Prospect,Technology,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,60,99,73,Covered,Hunter
+A0200,Evergreen Ventures 200,Customer,Healthcare,North America,Canada,Canada,Strategic,10000+,$5B+,CFO,Product,Tier 1,Yes,Yes,84,93,76,Uncovered,No Owner
+A0201,Nexus Group 201,Prospect,Financial Services,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,56,88,75,Covered,Hunter
+A0202,Vertex Global 202,Prospect,Manufacturing,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,63,79,77,Uncovered,No Owner
+A0203,Pioneer Group 203,Prospect,Manufacturing,Europe,France,France,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,73,59,71,Uncovered,No Owner
+A0204,Evergreen Systems 204,Prospect,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,86,67,61,Uncovered,No Owner
+A0205,Catalyst Labs 205,Customer,Manufacturing,Europe,France,France,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,No,49,65,59,Covered,Farmer
+A0206,Pioneer Manufacturing 206,Prospect,Manufacturing,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,55,49,60,Covered,Hunter
+A0207,Atlas Capital 207,Customer,Technology,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,Yes,No,88,79,82,Covered,Farmer
+A0208,BluePeak Labs 208,Prospect,Manufacturing,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,73,45,54,Covered,Hunter
+A0209,Horizon Labs 209,Customer,Manufacturing,North America,United States,US West,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,Yes,Yes,47,60,45,Covered,Farmer
+A0210,Sterling Enterprises 210,Prospect,Manufacturing,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,72,65,69,Covered,Hunter
+A0211,BluePeak Solutions 211,Prospect,Technology,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,80,70,84,Uncovered,No Owner
+A0212,Sterling Manufacturing 212,Customer,Technology,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,Yes,No,85,75,89,Covered,Farmer
+A0213,Pioneer Solutions 213,Customer,Financial Services,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,Yes,No,78,90,78,Uncovered,No Owner
+A0214,Orion Industries 214,Prospect,Financial Services,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,91,97,94,Covered,Hunter
+A0215,Evergreen Partners 215,Prospect,Healthcare,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,Yes,55,56,53,Uncovered,No Owner
+A0216,Atlas Labs 216,Prospect,Technology,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,90,67,80,Uncovered,No Owner
+A0217,Nova Labs 217,Customer,Technology,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,Yes,57,79,72,Covered,Farmer
+A0218,Orion Manufacturing 218,Customer,Financial Services,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,79,74,69,Covered,Farmer
+A0219,Frontier Technologies 219,Prospect,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,67,82,77,Covered,Hunter
+A0220,Frontier Analytics 220,Customer,Financial Services,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,74,87,80,Covered,Farmer
+A0221,BluePeak Systems 221,Prospect,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,55,87,73,Uncovered,No Owner
+A0222,Frontier Group 222,Prospect,Financial Services,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,72,85,67,Uncovered,No Owner
+A0223,Evergreen Data 223,Prospect,Technology,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,No,54,99,78,Uncovered,No Owner
+A0224,Horizon Ventures 224,Customer,Healthcare,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,65,68,59,Covered,Farmer
+A0225,Northstar Systems 225,Prospect,Healthcare,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,Product,Strategy,Tier 3,No,No,73,78,84,Uncovered,No Owner
+A0226,Frontier Enterprises 226,Customer,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,Yes,No,81,89,63,Uncovered,No Owner
+A0227,Frontier Partners 227,Prospect,Healthcare,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,54,71,52,Covered,Hunter
+A0228,Trinity Manufacturing 228,Customer,Manufacturing,Europe,Germany,DACH,Strategic,10000+,$5B+,CRO,Strategy,Tier 1,Yes,Yes,55,65,71,Covered,Farmer
+A0229,Sterling Industries 229,Prospect,Technology,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,66,79,59,Uncovered,No Owner
+A0230,Nova Enterprises 230,Prospect,Financial Services,APAC,India,India,Strategic,10000+,$5B+,CFO,CRO,Tier 1,No,Yes,69,99,93,Covered,Hunter
+A0231,Vertex Advisory 231,Prospect,Healthcare,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,92,85,84,Uncovered,No Owner
+A0232,Crescent Insights 232,Prospect,Manufacturing,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,Yes,75,55,57,Uncovered,No Owner
+A0233,Evergreen Digital 233,Customer,Manufacturing,Middle East,Qatar,GCC,Strategic,10000+,$5B+,CRO,Product,Tier 1,Yes,Yes,68,81,50,Covered,Farmer
+A0234,Sterling Advisory 234,Customer,Technology,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,Yes,No,65,73,73,Covered,Farmer
+A0235,Evergreen Partners 235,Prospect,Manufacturing,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,66,57,63,Covered,Hunter
+A0236,Crescent Group 236,Prospect,Financial Services,Europe,Sweden,Nordics,Strategic,10000+,$5B+,CFO,Strategy,Tier 1,No,Yes,87,50,64,Covered,Hunter
+A0237,Vertex Ventures 237,Customer,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,Yes,No,75,83,68,Uncovered,No Owner
+A0238,Summit Technologies 238,Customer,Financial Services,Middle East,United Arab Emirates,UAE,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,Yes,Yes,67,92,62,Covered,Farmer
+A0239,Sterling Analytics 239,Customer,Technology,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,Yes,No,57,93,77,Covered,Farmer
+A0240,Orion Advisory 240,Prospect,Technology,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,71,74,70,Covered,Hunter
+A0241,Catalyst Networks 241,Customer,Technology,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,No,58,84,62,Covered,Farmer
+A0242,Meridian Ventures 242,Prospect,Technology,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,75,82,78,Uncovered,No Owner
+A0243,Sterling Networks 243,Customer,Healthcare,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,68,68,56,Uncovered,No Owner
+A0244,BluePeak Industries 244,Prospect,Financial Services,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,90,87,84,Uncovered,No Owner
+A0245,BluePeak Analytics 245,Customer,Healthcare,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,71,88,75,Covered,Farmer
+A0246,Apex Insights 246,Customer,Financial Services,Middle East,United Arab Emirates,UAE,Strategic,10000+,$5B+,CRO,CFO,Tier 1,Yes,Yes,56,88,56,Covered,Farmer
+A0247,Nova Technologies 247,Customer,Financial Services,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,46,99,55,Uncovered,No Owner
+A0248,Atlas Capital 248,Customer,Technology,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,Yes,No,76,76,81,Covered,Farmer
+A0249,Meridian Manufacturing 249,Customer,Financial Services,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,99,84,98,Covered,Farmer
+A0250,Evergreen Networks 250,Customer,Technology,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,67,99,74,Covered,Farmer
+A0251,Quantum Solutions 251,Prospect,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,61,74,94,Covered,Hunter
+A0252,Horizon Networks 252,Customer,Financial Services,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,Yes,No,71,99,75,Covered,Farmer
+A0253,Nova Networks 253,Prospect,Technology,North America,United States,US East,Strategic,10000+,$5B+,Strategy,Product,Tier 1,No,Yes,79,89,75,Uncovered,No Owner
+A0254,Horizon Digital 254,Prospect,Financial Services,Europe,France,France,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,61,86,81,Uncovered,No Owner
+A0255,Orion Systems 255,Prospect,Healthcare,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,77,65,64,Covered,Hunter
+A0256,Evergreen Manufacturing 256,Customer,Technology,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,89,98,71,Covered,Farmer
+A0257,Northstar Data 257,Customer,Manufacturing,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,54,85,58,Covered,Farmer
+A0258,Catalyst Health 258,Prospect,Manufacturing,Europe,Sweden,Nordics,Strategic,10000+,$5B+,CFO,CRO,Tier 1,No,Yes,65,81,65,Covered,Hunter
+A0259,Frontier Capital 259,Customer,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,Yes,No,60,71,74,Covered,Farmer
+A0260,BluePeak Solutions 260,Prospect,Healthcare,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,84,60,64,Covered,Hunter
+A0261,Nova Global 261,Prospect,Technology,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,83,87,74,Uncovered,No Owner
+A0262,Sterling Global 262,Customer,Manufacturing,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,No,55,59,55,Covered,Farmer
+A0263,Summit Digital 263,Customer,Manufacturing,North America,United States,US East,Strategic,10000+,$5B+,Strategy,CFO,Tier 1,Yes,Yes,77,68,63,Covered,Farmer
+A0264,Orion Insights 264,Prospect,Manufacturing,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,55,84,72,Covered,Hunter
+A0265,Trinity Insights 265,Prospect,Technology,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,63,79,65,Covered,Hunter
+A0266,Trinity Labs 266,Prospect,Financial Services,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,56,81,72,Uncovered,No Owner
+A0267,Catalyst Systems 267,Customer,Financial Services,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,Yes,67,81,82,Uncovered,No Owner
+A0268,Meridian Analytics 268,Customer,Financial Services,Europe,Germany,DACH,Strategic,10000+,$5B+,CRO,Product,Tier 1,Yes,Yes,54,87,61,Covered,Farmer
+A0269,BluePeak Advisory 269,Customer,Healthcare,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,Yes,No,80,69,69,Covered,Farmer
+A0270,Apex Enterprises 270,Customer,Manufacturing,Europe,France,France,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,Yes,No,62,50,53,Covered,Farmer
+A0271,Clearview Technologies 271,Prospect,Technology,North America,United States,US West,Strategic,10000+,$5B+,CRO,Strategy,Tier 1,No,Yes,71,91,70,Uncovered,No Owner
+A0272,Crescent Enterprises 272,Customer,Healthcare,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,Yes,No,66,66,66,Covered,Farmer
+A0273,Trinity Industries 273,Prospect,Financial Services,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,Yes,57,86,78,Uncovered,No Owner
+A0274,Northstar Technologies 274,Prospect,Technology,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,99,78,70,Covered,Hunter
+A0275,Meridian Advisory 275,Prospect,Manufacturing,North America,United States,US East,Strategic,10000+,$5B+,Strategy,CFO,Tier 1,No,Yes,52,87,65,Covered,Hunter
+A0276,Crescent Ventures 276,Prospect,Technology,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,85,68,70,Covered,Hunter
+A0277,Sterling Ventures 277,Customer,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,Yes,No,65,70,77,Covered,Farmer
+A0278,Frontier Ventures 278,Prospect,Technology,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,82,75,64,Uncovered,No Owner
+A0279,Horizon Capital 279,Prospect,Healthcare,APAC,Singapore,Singapore,Strategic,10000+,$5B+,Strategy,Product,Tier 1,No,Yes,69,62,71,Uncovered,No Owner
+A0280,Crescent Capital 280,Prospect,Financial Services,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,Yes,69,94,84,Uncovered,No Owner
+A0281,Clearview Labs 281,Prospect,Technology,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,73,93,71,Covered,Hunter
+A0282,Quantum Labs 282,Prospect,Financial Services,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,67,86,88,Covered,Hunter
+A0283,Northstar Insights 283,Customer,Healthcare,Europe,France,France,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,53,65,46,Covered,Farmer
+A0284,Pioneer Health 284,Prospect,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,55,71,77,Covered,Hunter
+A0285,Crescent Systems 285,Prospect,Financial Services,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,Product,Strategy,Tier 3,No,No,73,85,85,Covered,Hunter
+A0286,Orion Health 286,Prospect,Financial Services,Europe,United Kingdom,UKI,Strategic,10000+,$5B+,Strategy,CFO,Tier 1,No,Yes,70,90,70,Uncovered,No Owner
+A0287,BluePeak Networks 287,Customer,Technology,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,84,73,67,Uncovered,No Owner
+A0288,Frontier Technologies 288,Prospect,Healthcare,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,Product,Strategy,Tier 3,No,No,72,88,83,Covered,Hunter
+A0289,Catalyst Global 289,Customer,Manufacturing,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,No,49,57,61,Covered,Farmer
+A0290,Horizon Advisory 290,Prospect,Technology,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,70,97,86,Uncovered,No Owner
+A0291,Trinity Labs 291,Prospect,Financial Services,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,70,88,65,Uncovered,No Owner
+A0292,Horizon Systems 292,Customer,Technology,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,Yes,No,95,74,74,Uncovered,No Owner
+A0293,Horizon Partners 293,Prospect,Technology,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,90,88,87,Covered,Hunter
+A0294,Trinity Systems 294,Prospect,Manufacturing,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,54,64,76,Uncovered,No Owner
+A0295,Atlas Systems 295,Prospect,Financial Services,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,58,95,72,Uncovered,No Owner
+A0296,Nexus Manufacturing 296,Customer,Technology,APAC,India,India,Strategic,10000+,$5B+,Product,CRO,Tier 1,Yes,Yes,70,55,67,Uncovered,No Owner
+A0297,Summit Global 297,Customer,Technology,Europe,France,France,Strategic,10000+,$5B+,Product,CFO,Tier 1,Yes,Yes,81,71,68,Uncovered,No Owner
+A0298,Nexus Ventures 298,Customer,Technology,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,Yes,No,91,81,93,Covered,Farmer
+A0299,Horizon Enterprises 299,Customer,Technology,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,Yes,65,89,70,Uncovered,No Owner
+A0300,Quantum Solutions 300,Prospect,Healthcare,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,57,90,84,Covered,Hunter
+A0301,Vertex Partners 301,Prospect,Manufacturing,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,64,49,51,Covered,Hunter
+A0302,Nova Holdings 302,Customer,Technology,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,Yes,Yes,60,89,71,Covered,Farmer
+A0303,BluePeak Analytics 303,Prospect,Healthcare,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,82,81,77,Uncovered,No Owner
+A0304,Vertex Global 304,Prospect,Manufacturing,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,75,77,68,Covered,Hunter
+A0305,Meridian Insights 305,Prospect,Healthcare,Europe,Sweden,Nordics,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,No,Yes,54,84,72,Uncovered,No Owner
+A0306,Atlas Labs 306,Customer,Manufacturing,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,Yes,No,60,72,80,Uncovered,No Owner
+A0307,Evergreen Advisory 307,Prospect,Healthcare,APAC,Japan,Japan,Strategic,10000+,$5B+,CRO,CFO,Tier 1,No,Yes,56,67,74,Covered,Hunter
+A0308,Evergreen Networks 308,Customer,Manufacturing,North America,United States,US West,Strategic,10000+,$5B+,CFO,Strategy,Tier 1,Yes,Yes,67,71,54,Covered,Farmer
+A0309,Clearview Systems 309,Prospect,Technology,North America,United States,US East,Strategic,10000+,$5B+,CRO,Strategy,Tier 1,No,Yes,51,86,82,Covered,Hunter
+A0310,Vertex Enterprises 310,Customer,Manufacturing,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,Yes,No,67,77,79,Covered,Farmer
+A0311,Catalyst Solutions 311,Prospect,Financial Services,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,73,70,67,Covered,Hunter
+A0312,Nova Insights 312,Customer,Technology,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,83,67,61,Covered,Farmer
+A0313,Nexus Solutions 313,Prospect,Healthcare,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,61,75,72,Uncovered,No Owner
+A0314,Trinity Holdings 314,Prospect,Technology,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,No,85,69,80,Covered,Hunter
+A0315,Northstar Systems 315,Customer,Technology,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,91,99,96,Covered,Farmer
+A0316,Trinity Holdings 316,Customer,Technology,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,Yes,70,75,69,Covered,Farmer
+A0317,Pioneer Manufacturing 317,Customer,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,No,58,91,70,Uncovered,No Owner
+A0318,Pioneer Capital 318,Customer,Manufacturing,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,66,70,76,Covered,Farmer
+A0319,Sterling Solutions 319,Customer,Manufacturing,North America,United States,US East,Strategic,10000+,$5B+,CFO,Strategy,Tier 1,Yes,Yes,69,56,68,Uncovered,No Owner
+A0320,Frontier Partners 320,Customer,Technology,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,Yes,No,87,86,75,Covered,Farmer
+A0321,Nova Data 321,Customer,Healthcare,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,Yes,No,93,66,83,Covered,Farmer
+A0322,Pioneer Networks 322,Prospect,Healthcare,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,60,75,51,Covered,Hunter
+A0323,Orion Solutions 323,Prospect,Financial Services,North America,United States,US East,Strategic,10000+,$5B+,Strategy,CFO,Tier 1,No,Yes,84,70,84,Uncovered,No Owner
+A0324,Horizon Technologies 324,Customer,Technology,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,Yes,No,80,80,78,Covered,Farmer
+A0325,Northstar Capital 325,Prospect,Technology,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,87,76,86,Uncovered,No Owner
+A0326,Quantum Enterprises 326,Prospect,Financial Services,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,75,94,86,Uncovered,No Owner
+A0327,Evergreen Global 327,Prospect,Technology,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,88,85,68,Covered,Hunter
+A0328,Vertex Holdings 328,Prospect,Manufacturing,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,63,86,82,Covered,Hunter
+A0329,Apex Industries 329,Prospect,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,Yes,52,83,77,Covered,Hunter
+A0330,Trinity Global 330,Prospect,Healthcare,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,62,77,57,Uncovered,No Owner
+A0331,Clearview Technologies 331,Prospect,Financial Services,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,65,91,77,Covered,Hunter
+A0332,Meridian Ventures 332,Prospect,Manufacturing,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,56,70,70,Covered,Hunter
+A0333,Orion Labs 333,Customer,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,57,84,73,Uncovered,No Owner
+A0334,Quantum Networks 334,Prospect,Technology,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,86,75,98,Uncovered,No Owner
+A0335,Atlas Insights 335,Prospect,Technology,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,Yes,75,77,86,Covered,Hunter
+A0336,Trinity Manufacturing 336,Customer,Financial Services,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,74,94,66,Uncovered,No Owner
+A0337,Frontier Global 337,Customer,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,74,66,63,Covered,Farmer
+A0338,BluePeak Ventures 338,Prospect,Healthcare,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,75,86,74,Uncovered,No Owner
+A0339,Frontier Ventures 339,Prospect,Technology,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,77,82,70,Covered,Hunter
+A0340,Frontier Group 340,Prospect,Technology,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,70,77,84,Uncovered,No Owner
+A0341,Horizon Labs 341,Prospect,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,55,81,64,Covered,Hunter
+A0342,Atlas Data 342,Prospect,Manufacturing,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,53,54,32,Uncovered,No Owner
+A0343,Atlas Systems 343,Customer,Technology,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,82,86,77,Uncovered,No Owner
+A0344,Crescent Partners 344,Prospect,Financial Services,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,84,80,85,Uncovered,No Owner
+A0345,BluePeak Data 345,Customer,Technology,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,68,91,63,Covered,Farmer
+A0346,Crescent Capital 346,Prospect,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,90,85,60,Uncovered,No Owner
+A0347,Vertex Digital 347,Prospect,Healthcare,Europe,France,France,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,80,87,75,Covered,Hunter
+A0348,Northstar Labs 348,Customer,Technology,APAC,India,India,Strategic,10000+,$5B+,Product,CRO,Tier 1,Yes,Yes,68,97,88,Covered,Farmer
+A0349,Horizon Ventures 349,Prospect,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,75,97,83,Covered,Hunter
+A0350,Pioneer Industries 350,Prospect,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,82,83,76,Covered,Hunter
+A0351,Atlas Manufacturing 351,Prospect,Healthcare,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,49,77,70,Covered,Hunter
+A0352,Crescent Global 352,Customer,Financial Services,Europe,Sweden,Nordics,Strategic,10000+,$5B+,Strategy,CFO,Tier 1,Yes,Yes,88,72,74,Covered,Farmer
+A0353,Catalyst Enterprises 353,Prospect,Technology,North America,United States,US West,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,No,Yes,65,99,65,Covered,Hunter
+A0354,Vertex Holdings 354,Customer,Manufacturing,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,Yes,No,67,60,55,Covered,Farmer
+A0355,Nova Partners 355,Prospect,Healthcare,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,75,95,73,Covered,Hunter
+A0356,Frontier Holdings 356,Prospect,Technology,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,82,71,80,Covered,Hunter
+A0357,BluePeak Industries 357,Customer,Healthcare,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,Yes,Yes,84,81,87,Covered,Farmer
+A0358,Evergreen Global 358,Customer,Technology,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,Yes,No,75,73,72,Covered,Farmer
+A0359,Clearview Labs 359,Prospect,Healthcare,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,64,76,75,Uncovered,No Owner
+A0360,Clearview Data 360,Prospect,Financial Services,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,87,79,66,Uncovered,No Owner
+A0361,Meridian Manufacturing 361,Prospect,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,Yes,89,80,69,Covered,Hunter
+A0362,Crescent Holdings 362,Customer,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,84,73,78,Covered,Farmer
+A0363,Quantum Manufacturing 363,Customer,Financial Services,North America,United States,US West,Strategic,10000+,$5B+,Product,Strategy,Tier 1,Yes,Yes,69,86,72,Covered,Farmer
+A0364,Crescent Capital 364,Customer,Financial Services,North America,United States,US West,Strategic,10000+,$5B+,CRO,Strategy,Tier 1,Yes,Yes,72,91,63,Covered,Farmer
+A0365,Quantum Holdings 365,Customer,Manufacturing,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,Yes,No,57,79,72,Uncovered,No Owner
+A0366,Catalyst Global 366,Customer,Technology,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,Yes,No,62,76,61,Uncovered,No Owner
+A0367,Frontier Partners 367,Prospect,Financial Services,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,Product,Strategy,Tier 3,No,No,90,86,90,Covered,Hunter
+A0368,Catalyst Digital 368,Customer,Manufacturing,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,Yes,No,50,67,77,Uncovered,No Owner
+A0369,Nexus Industries 369,Prospect,Financial Services,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,71,99,75,Covered,Hunter
+A0370,Clearview Systems 370,Customer,Financial Services,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,75,83,93,Covered,Farmer
+A0371,Vertex Manufacturing 371,Prospect,Manufacturing,Europe,United Kingdom,UKI,Strategic,10000+,$5B+,CFO,Strategy,Tier 1,No,Yes,79,48,56,Uncovered,No Owner
+A0372,Vertex Group 372,Prospect,Manufacturing,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,68,68,55,Uncovered,No Owner
+A0373,Quantum Systems 373,Prospect,Technology,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,79,87,79,Covered,Hunter
+A0374,Atlas Industries 374,Prospect,Financial Services,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,81,99,66,Covered,Hunter
+A0375,Summit Global 375,Prospect,Healthcare,Middle East,United Arab Emirates,UAE,Strategic,10000+,$5B+,CFO,Product,Tier 1,No,Yes,63,67,54,Uncovered,No Owner
+A0376,Clearview Advisory 376,Customer,Manufacturing,APAC,Singapore,Singapore,Strategic,10000+,$5B+,Product,CRO,Tier 1,Yes,Yes,73,83,68,Covered,Farmer
+A0377,Summit Solutions 377,Prospect,Technology,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,65,84,80,Uncovered,No Owner
+A0378,BluePeak Analytics 378,Prospect,Technology,Europe,France,France,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,61,77,63,Covered,Hunter
+A0379,Meridian Advisory 379,Customer,Financial Services,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,73,69,78,Covered,Farmer
+A0380,Quantum Group 380,Customer,Financial Services,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,No,83,94,98,Uncovered,No Owner
+A0381,Vertex Capital 381,Prospect,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,65,68,57,Covered,Hunter
+A0382,Horizon Industries 382,Prospect,Healthcare,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,75,76,79,Uncovered,No Owner
+A0383,Frontier Group 383,Prospect,Technology,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,87,99,98,Covered,Hunter
+A0384,Orion Digital 384,Prospect,Financial Services,APAC,Singapore,Singapore,Strategic,10000+,$5B+,Product,CFO,Tier 1,No,Yes,77,95,78,Covered,Hunter
+A0385,Northstar Analytics 385,Prospect,Technology,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,68,93,67,Uncovered,No Owner
+A0386,Meridian Advisory 386,Prospect,Financial Services,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,53,77,61,Uncovered,No Owner
+A0387,Horizon Technologies 387,Customer,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,35,75,56,Covered,Farmer
+A0388,Frontier Systems 388,Prospect,Manufacturing,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,73,79,69,Uncovered,No Owner
+A0389,Evergreen Labs 389,Prospect,Healthcare,North America,United States,US East,Strategic,10000+,$5B+,Strategy,CFO,Tier 1,No,Yes,35,88,65,Covered,Hunter
+A0390,Horizon Ventures 390,Customer,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,Yes,No,70,87,80,Covered,Farmer
+A0391,Summit Manufacturing 391,Prospect,Manufacturing,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,56,66,58,Uncovered,No Owner
+A0392,Sterling Analytics 392,Customer,Financial Services,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,Yes,No,80,78,66,Uncovered,No Owner
+A0393,Northstar Insights 393,Prospect,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,73,79,84,Covered,Hunter
+A0394,Orion Industries 394,Prospect,Technology,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,61,99,86,Covered,Hunter
+A0395,Atlas Data 395,Prospect,Technology,Middle East,Qatar,GCC,Strategic,10000+,$5B+,Product,CRO,Tier 1,No,Yes,99,70,71,Covered,Hunter
+A0396,Northstar Data 396,Prospect,Healthcare,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,61,66,57,Covered,Hunter
+A0397,BluePeak Industries 397,Prospect,Financial Services,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,83,91,96,Covered,Hunter
+A0398,Horizon Capital 398,Prospect,Manufacturing,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,72,55,70,Uncovered,No Owner
+A0399,Frontier Advisory 399,Prospect,Financial Services,North America,Canada,Canada,Strategic,10000+,$5B+,Product,CFO,Tier 1,No,Yes,74,82,61,Covered,Hunter
+A0400,Orion Holdings 400,Prospect,Technology,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,87,76,67,Covered,Hunter
+A0401,BluePeak Networks 401,Prospect,Healthcare,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,56,87,66,Covered,Hunter
+A0402,Evergreen Enterprises 402,Customer,Healthcare,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,Yes,No,56,68,54,Covered,Farmer
+A0403,Pioneer Industries 403,Customer,Healthcare,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,58,47,37,Covered,Farmer
+A0404,Evergreen Industries 404,Prospect,Technology,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,82,70,79,Uncovered,No Owner
+A0405,Sterling Capital 405,Customer,Healthcare,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,59,72,53,Covered,Farmer
+A0406,Sterling Advisory 406,Customer,Financial Services,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,51,89,90,Covered,Farmer
+A0407,Vertex Labs 407,Prospect,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,36,80,64,Uncovered,No Owner
+A0408,Atlas Solutions 408,Customer,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,No,74,77,73,Uncovered,No Owner
+A0409,Evergreen Partners 409,Customer,Healthcare,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,Yes,No,55,70,81,Uncovered,No Owner
+A0410,Summit Global 410,Prospect,Manufacturing,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,61,84,67,Uncovered,No Owner
+A0411,Atlas Health 411,Customer,Healthcare,North America,Canada,Canada,Strategic,10000+,$5B+,CRO,Strategy,Tier 1,Yes,Yes,64,86,56,Covered,Farmer
+A0412,Atlas Digital 412,Customer,Manufacturing,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,61,58,71,Covered,Farmer
+A0413,Apex Advisory 413,Customer,Financial Services,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,Yes,No,94,73,89,Covered,Farmer
+A0414,BluePeak Ventures 414,Prospect,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,63,77,72,Uncovered,No Owner
+A0415,Frontier Enterprises 415,Prospect,Healthcare,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,77,75,51,Uncovered,No Owner
+A0416,BluePeak Data 416,Prospect,Manufacturing,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,57,55,56,Uncovered,No Owner
+A0417,Crescent Digital 417,Customer,Manufacturing,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,Yes,No,86,69,66,Uncovered,No Owner
+A0418,Quantum Analytics 418,Prospect,Manufacturing,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,59,67,40,Covered,Hunter
+A0419,Summit Health 419,Prospect,Financial Services,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,78,71,78,Uncovered,No Owner
+A0420,Pioneer Advisory 420,Prospect,Financial Services,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,81,94,87,Covered,Hunter
+A0421,Clearview Networks 421,Prospect,Healthcare,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,86,74,91,Covered,Hunter
+A0422,Atlas Holdings 422,Customer,Financial Services,Europe,Sweden,Nordics,Strategic,10000+,$5B+,CFO,Product,Tier 1,Yes,Yes,65,67,68,Uncovered,No Owner
+A0423,Quantum Digital 423,Prospect,Technology,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,74,92,77,Covered,Hunter
+A0424,Quantum Advisory 424,Customer,Healthcare,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,70,82,65,Covered,Farmer
+A0425,Sterling Digital 425,Prospect,Manufacturing,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,49,69,67,Uncovered,No Owner
+A0426,Crescent Global 426,Customer,Financial Services,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,Yes,No,64,86,74,Covered,Farmer
+A0427,Horizon Enterprises 427,Prospect,Technology,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,75,81,67,Uncovered,No Owner
+A0428,Clearview Digital 428,Prospect,Healthcare,APAC,Singapore,Singapore,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,No,Yes,55,49,57,Covered,Hunter
+A0429,Northstar Technologies 429,Prospect,Healthcare,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,76,92,92,Uncovered,No Owner
+A0430,Summit Systems 430,Customer,Manufacturing,North America,Canada,Canada,Strategic,10000+,$5B+,Product,CFO,Tier 1,Yes,Yes,86,57,74,Covered,Farmer
+A0431,Apex Partners 431,Customer,Healthcare,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,63,73,81,Uncovered,No Owner
+A0432,BluePeak Capital 432,Prospect,Technology,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,81,89,69,Uncovered,No Owner
+A0433,Nova Partners 433,Prospect,Technology,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,Yes,55,86,62,Covered,Hunter
+A0434,Vertex Manufacturing 434,Prospect,Technology,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,99,89,96,Covered,Hunter
+A0435,Horizon Group 435,Prospect,Technology,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,99,64,58,Uncovered,No Owner
+A0436,Apex Solutions 436,Prospect,Technology,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,52,95,65,Covered,Hunter
+A0437,Summit Capital 437,Customer,Financial Services,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,Yes,No,63,73,81,Covered,Farmer
+A0438,Horizon Capital 438,Prospect,Manufacturing,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,48,58,59,Covered,Hunter
+A0439,Orion Holdings 439,Prospect,Healthcare,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,81,77,71,Covered,Hunter
+A0440,Vertex Networks 440,Prospect,Manufacturing,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,46,60,53,Uncovered,No Owner
+A0441,Apex Digital 441,Prospect,Financial Services,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,Yes,89,81,68,Uncovered,No Owner
+A0442,Trinity Systems 442,Prospect,Technology,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,66,91,83,Uncovered,No Owner
+A0443,Catalyst Insights 443,Customer,Manufacturing,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,Yes,No,75,73,87,Uncovered,No Owner
+A0444,Horizon Group 444,Prospect,Manufacturing,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,65,53,53,Covered,Hunter
+A0445,Vertex Systems 445,Prospect,Healthcare,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,70,59,66,Uncovered,No Owner
+A0446,Northstar Industries 446,Customer,Manufacturing,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,Yes,No,45,61,59,Covered,Farmer
+A0447,Frontier Data 447,Customer,Manufacturing,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,Yes,No,74,55,52,Uncovered,No Owner
+A0448,Horizon Capital 448,Prospect,Financial Services,North America,United States,US East,Strategic,10000+,$5B+,CFO,Product,Tier 1,No,Yes,95,89,96,Uncovered,No Owner
+A0449,BluePeak Networks 449,Customer,Financial Services,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,Yes,No,44,95,68,Uncovered,No Owner
+A0450,Northstar Digital 450,Prospect,Financial Services,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,61,97,79,Uncovered,No Owner
+A0451,Meridian Technologies 451,Customer,Financial Services,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,Yes,No,67,73,62,Covered,Farmer
+A0452,Nexus Labs 452,Customer,Financial Services,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,Yes,Yes,50,86,74,Covered,Farmer
+A0453,Frontier Enterprises 453,Prospect,Technology,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,79,82,68,Covered,Hunter
+A0454,Meridian Global 454,Customer,Technology,Middle East,Saudi Arabia,Saudi Arabia,Strategic,10000+,$5B+,CFO,CRO,Tier 1,Yes,Yes,89,92,98,Covered,Farmer
+A0455,Atlas Capital 455,Prospect,Healthcare,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,53,56,54,Uncovered,No Owner
+A0456,Atlas Health 456,Customer,Technology,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,Yes,No,85,83,72,Covered,Farmer
+A0457,Quantum Labs 457,Prospect,Technology,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,78,97,80,Uncovered,No Owner
+A0458,Frontier Solutions 458,Prospect,Healthcare,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,74,66,59,Uncovered,No Owner
+A0459,Nexus Manufacturing 459,Customer,Financial Services,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,Yes,No,85,78,83,Covered,Farmer
+A0460,Quantum Systems 460,Prospect,Healthcare,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,69,85,79,Covered,Hunter
+A0461,Vertex Industries 461,Customer,Financial Services,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,No,71,87,67,Covered,Farmer
+A0462,Horizon Industries 462,Customer,Manufacturing,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,Yes,No,65,56,59,Covered,Farmer
+A0463,Orion Ventures 463,Prospect,Technology,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,88,82,87,Covered,Hunter
+A0464,Evergreen Advisory 464,Customer,Technology,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,59,84,77,Covered,Farmer
+A0465,BluePeak Industries 465,Prospect,Technology,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,81,93,71,Uncovered,No Owner
+A0466,Meridian Ventures 466,Prospect,Manufacturing,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,57,50,67,Uncovered,No Owner
+A0467,Evergreen Manufacturing 467,Prospect,Healthcare,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,49,61,65,Covered,Hunter
+A0468,Apex Solutions 468,Customer,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,Yes,No,66,84,89,Covered,Farmer
+A0469,Clearview Holdings 469,Prospect,Healthcare,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,Yes,81,79,85,Covered,Hunter
+A0470,Quantum Industries 470,Prospect,Healthcare,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,88,81,65,Covered,Hunter
+A0471,Frontier Ventures 471,Prospect,Technology,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,70,76,64,Uncovered,No Owner
+A0472,Clearview Digital 472,Prospect,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,81,70,86,Uncovered,No Owner
+A0473,Evergreen Industries 473,Customer,Healthcare,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,Yes,No,45,91,68,Covered,Farmer
+A0474,Trinity Health 474,Prospect,Technology,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,99,89,92,Uncovered,No Owner
+A0475,Apex Partners 475,Customer,Financial Services,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,71,74,70,Covered,Farmer
+A0476,Nova Partners 476,Prospect,Healthcare,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,44,65,44,Covered,Hunter
+A0477,Clearview Enterprises 477,Customer,Manufacturing,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,Yes,No,70,80,80,Covered,Farmer
+A0478,Crescent Advisory 478,Prospect,Technology,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,78,77,53,Covered,Hunter
+A0479,Vertex Group 479,Prospect,Healthcare,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,70,75,89,Uncovered,No Owner
+A0480,Pioneer Global 480,Customer,Manufacturing,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,Yes,No,64,59,74,Covered,Farmer
+A0481,Sterling Capital 481,Customer,Financial Services,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,No,67,94,72,Uncovered,No Owner
+A0482,Summit Technologies 482,Prospect,Healthcare,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,69,87,68,Covered,Hunter
+A0483,Quantum Advisory 483,Customer,Financial Services,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,Yes,No,59,56,58,Covered,Farmer
+A0484,Nexus Technologies 484,Customer,Financial Services,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,68,90,80,Covered,Farmer
+A0485,Horizon Health 485,Customer,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,Yes,82,68,87,Covered,Farmer
+A0486,Nexus Group 486,Customer,Technology,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,Yes,No,71,77,77,Covered,Farmer
+A0487,Quantum Global 487,Prospect,Technology,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,Yes,84,96,87,Covered,Hunter
+A0488,Crescent Industries 488,Prospect,Manufacturing,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,68,69,77,Uncovered,No Owner
+A0489,BluePeak Labs 489,Prospect,Technology,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,68,90,63,Covered,Hunter
+A0490,Crescent Manufacturing 490,Prospect,Healthcare,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,75,79,82,Covered,Hunter
+A0491,Catalyst Manufacturing 491,Customer,Technology,Europe,France,France,Strategic,10000+,$5B+,Product,CFO,Tier 1,Yes,Yes,78,83,60,Covered,Farmer
+A0492,Catalyst Partners 492,Prospect,Manufacturing,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,61,84,87,Covered,Hunter
+A0493,Atlas Analytics 493,Prospect,Technology,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,62,61,62,Covered,Hunter
+A0494,Vertex Manufacturing 494,Customer,Technology,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,Yes,No,69,78,66,Covered,Farmer
+A0495,Catalyst Insights 495,Customer,Financial Services,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,66,72,47,Covered,Farmer
+A0496,Nova Analytics 496,Customer,Healthcare,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,Yes,No,62,74,66,Covered,Farmer
+A0497,Quantum Enterprises 497,Prospect,Healthcare,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,70,80,60,Covered,Hunter
+A0498,Clearview Insights 498,Prospect,Healthcare,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,69,52,70,Covered,Hunter
+A0499,Quantum Systems 499,Customer,Financial Services,Europe,France,France,Strategic,10000+,$5B+,CFO,Product,Tier 1,Yes,Yes,51,86,75,Uncovered,No Owner
+A0500,Meridian Group 500,Prospect,Healthcare,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,68,65,70,Uncovered,No Owner
+A0501,Summit Data 501,Prospect,Manufacturing,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,Yes,70,57,76,Covered,Hunter
+A0502,Apex Capital 502,Customer,Financial Services,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,Yes,No,48,99,69,Uncovered,No Owner
+A0503,Summit Manufacturing 503,Prospect,Manufacturing,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,58,63,41,Uncovered,No Owner
+A0504,Frontier Solutions 504,Prospect,Financial Services,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,84,99,54,Uncovered,No Owner
+A0505,Meridian Manufacturing 505,Customer,Manufacturing,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,Yes,No,59,61,47,Covered,Farmer
+A0506,Nexus Ventures 506,Customer,Technology,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,Yes,No,85,81,73,Covered,Farmer
+A0507,Vertex Health 507,Prospect,Technology,Europe,France,France,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,91,66,75,Covered,Hunter
+A0508,Evergreen Enterprises 508,Prospect,Technology,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,83,81,77,Covered,Hunter
+A0509,Crescent Group 509,Prospect,Manufacturing,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,63,66,70,Uncovered,No Owner
+A0510,Quantum Labs 510,Customer,Financial Services,Europe,France,France,Strategic,10000+,$5B+,CFO,Product,Tier 1,Yes,Yes,63,68,65,Covered,Farmer
+A0511,Northstar Solutions 511,Prospect,Technology,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,81,75,72,Uncovered,No Owner
+A0512,Orion Insights 512,Prospect,Manufacturing,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,40,51,24,Uncovered,No Owner
+A0513,Clearview Ventures 513,Customer,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,Yes,No,53,75,74,Covered,Farmer
+A0514,Summit Networks 514,Prospect,Healthcare,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,52,68,54,Uncovered,No Owner
+A0515,BluePeak Manufacturing 515,Prospect,Financial Services,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,77,83,66,Covered,Hunter
+A0516,Frontier Manufacturing 516,Prospect,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,66,91,74,Covered,Hunter
+A0517,Nova Partners 517,Customer,Financial Services,APAC,Australia,Australia,Strategic,10000+,$5B+,CFO,CRO,Tier 1,Yes,Yes,55,66,64,Uncovered,No Owner
+A0518,Evergreen Solutions 518,Prospect,Technology,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,93,88,89,Uncovered,No Owner
+A0519,Summit Solutions 519,Prospect,Financial Services,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,67,66,78,Uncovered,No Owner
+A0520,Northstar Insights 520,Customer,Manufacturing,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,76,63,65,Covered,Farmer
+A0521,Evergreen Advisory 521,Prospect,Manufacturing,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,62,69,86,Covered,Hunter
+A0522,Pioneer Networks 522,Prospect,Healthcare,Europe,France,France,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,59,91,83,Covered,Hunter
+A0523,Orion Advisory 523,Prospect,Financial Services,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,68,81,71,Uncovered,No Owner
+A0524,Atlas Ventures 524,Customer,Healthcare,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,Yes,No,79,73,87,Covered,Farmer
+A0525,Evergreen Digital 525,Prospect,Technology,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,94,84,86,Covered,Hunter
+A0526,Orion Holdings 526,Prospect,Healthcare,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,70,85,74,Uncovered,No Owner
+A0527,Northstar Solutions 527,Prospect,Technology,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,59,78,76,Uncovered,No Owner
+A0528,BluePeak Manufacturing 528,Prospect,Financial Services,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,60,78,53,Uncovered,No Owner
+A0529,Crescent Partners 529,Prospect,Technology,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,66,87,64,Uncovered,No Owner
+A0530,Vertex Solutions 530,Customer,Manufacturing,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,Yes,No,66,69,69,Uncovered,No Owner
+A0531,Evergreen Holdings 531,Prospect,Technology,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,58,81,56,Uncovered,No Owner
+A0532,Sterling Systems 532,Prospect,Financial Services,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,73,99,62,Uncovered,No Owner
+A0533,Summit Health 533,Customer,Technology,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,Yes,No,48,79,55,Covered,Farmer
+A0534,Pioneer Industries 534,Prospect,Manufacturing,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,67,70,83,Uncovered,No Owner
+A0535,Atlas Solutions 535,Prospect,Manufacturing,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,63,66,56,Covered,Hunter
+A0536,Horizon Group 536,Prospect,Financial Services,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,74,94,86,Covered,Hunter
+A0537,Atlas Enterprises 537,Prospect,Financial Services,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,50,92,74,Covered,Hunter
+A0538,Catalyst Labs 538,Customer,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,77,58,69,Covered,Farmer
+A0539,Atlas Data 539,Prospect,Technology,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,80,76,91,Covered,Hunter
+A0540,Catalyst Group 540,Prospect,Healthcare,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,62,66,68,Uncovered,No Owner
+A0541,Trinity Technologies 541,Prospect,Technology,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,81,75,69,Uncovered,No Owner
+A0542,Apex Technologies 542,Customer,Healthcare,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,Yes,No,46,73,68,Covered,Farmer
+A0543,Horizon Capital 543,Prospect,Healthcare,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,60,85,56,Covered,Hunter
+A0544,Sterling Holdings 544,Customer,Financial Services,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,Yes,70,84,67,Covered,Farmer
+A0545,Quantum Data 545,Customer,Financial Services,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,Yes,49,78,56,Covered,Farmer
+A0546,Pioneer Enterprises 546,Prospect,Technology,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,95,81,76,Uncovered,No Owner
+A0547,Horizon Global 547,Prospect,Technology,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,83,98,89,Uncovered,No Owner
+A0548,Sterling Partners 548,Customer,Manufacturing,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,Yes,No,64,77,64,Covered,Farmer
+A0549,Trinity Manufacturing 549,Customer,Technology,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,Yes,No,63,82,66,Covered,Farmer
+A0550,Trinity Data 550,Prospect,Technology,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,77,99,82,Uncovered,No Owner
+A0551,Northstar Group 551,Customer,Financial Services,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,Yes,No,67,99,85,Covered,Farmer
+A0552,Evergreen Partners 552,Prospect,Manufacturing,North America,United States,US East,Strategic,10000+,$5B+,Strategy,Product,Tier 1,No,Yes,58,62,65,Uncovered,No Owner
+A0553,Quantum Holdings 553,Prospect,Technology,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,83,99,95,Uncovered,No Owner
+A0554,BluePeak Advisory 554,Customer,Technology,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,Yes,No,99,64,68,Uncovered,No Owner
+A0555,Clearview Industries 555,Customer,Healthcare,APAC,Australia,Australia,Strategic,10000+,$5B+,Product,CFO,Tier 1,Yes,Yes,46,80,69,Uncovered,No Owner
+A0556,Trinity Networks 556,Customer,Healthcare,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,Yes,No,81,59,73,Covered,Farmer
+A0557,Sterling Analytics 557,Prospect,Technology,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,75,79,73,Covered,Hunter
+A0558,Crescent Health 558,Customer,Technology,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,Yes,No,83,83,57,Uncovered,No Owner
+A0559,Apex Group 559,Prospect,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,67,97,80,Uncovered,No Owner
+A0560,Summit Industries 560,Prospect,Financial Services,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,66,90,78,Covered,Hunter
+A0561,Crescent Technologies 561,Prospect,Financial Services,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,56,82,65,Uncovered,No Owner
+A0562,BluePeak Networks 562,Customer,Manufacturing,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,Yes,No,55,82,58,Uncovered,No Owner
+A0563,Nova Digital 563,Prospect,Financial Services,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,No,78,92,91,Covered,Hunter
+A0564,Evergreen Labs 564,Prospect,Financial Services,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,86,85,90,Uncovered,No Owner
+A0565,Apex Capital 565,Prospect,Technology,APAC,Singapore,Singapore,Strategic,10000+,$5B+,Product,Strategy,Tier 1,No,Yes,71,64,65,Covered,Hunter
+A0566,BluePeak Global 566,Prospect,Technology,Middle East,Qatar,GCC,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,No,Yes,69,95,63,Covered,Hunter
+A0567,Northstar Holdings 567,Prospect,Manufacturing,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,59,60,60,Covered,Hunter
+A0568,BluePeak Solutions 568,Prospect,Technology,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,59,94,79,Uncovered,No Owner
+A0569,Northstar Technologies 569,Prospect,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,75,68,68,Uncovered,No Owner
+A0570,Crescent Group 570,Prospect,Technology,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,84,79,69,Uncovered,No Owner
+A0571,Frontier Labs 571,Customer,Financial Services,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,Yes,No,73,91,77,Uncovered,No Owner
+A0572,Meridian Analytics 572,Prospect,Financial Services,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,56,93,77,Uncovered,No Owner
+A0573,Northstar Ventures 573,Customer,Healthcare,North America,United States,US East,Strategic,10000+,$5B+,CFO,Strategy,Tier 1,Yes,Yes,76,99,81,Covered,Farmer
+A0574,Orion Capital 574,Prospect,Manufacturing,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,67,78,67,Covered,Hunter
+A0575,BluePeak Advisory 575,Prospect,Manufacturing,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,51,60,42,Covered,Hunter
+A0576,Meridian Advisory 576,Customer,Healthcare,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,Yes,No,55,57,57,Covered,Farmer
+A0577,Nova Holdings 577,Prospect,Technology,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,71,86,71,Covered,Hunter
+A0578,Atlas Capital 578,Customer,Manufacturing,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,Yes,No,58,71,62,Covered,Farmer
+A0579,Crescent Manufacturing 579,Prospect,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,93,63,85,Covered,Hunter
+A0580,Northstar Technologies 580,Customer,Financial Services,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,No,69,63,72,Uncovered,No Owner
+A0581,Vertex Capital 581,Prospect,Manufacturing,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,68,75,78,Uncovered,No Owner
+A0582,Orion Health 582,Customer,Financial Services,APAC,Singapore,Singapore,Strategic,10000+,$5B+,CRO,Product,Tier 1,Yes,Yes,77,95,77,Covered,Farmer
+A0583,Sterling Manufacturing 583,Customer,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,Yes,75,85,70,Covered,Farmer
+A0584,Clearview Insights 584,Customer,Healthcare,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,Yes,Yes,59,75,56,Covered,Farmer
+A0585,Crescent Solutions 585,Prospect,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,66,95,94,Covered,Hunter
+A0586,Sterling Enterprises 586,Prospect,Healthcare,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,82,56,60,Uncovered,No Owner
+A0587,Trinity Analytics 587,Customer,Healthcare,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,82,92,98,Covered,Farmer
+A0588,Orion Enterprises 588,Customer,Manufacturing,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,Yes,No,82,53,73,Covered,Farmer
+A0589,Frontier Digital 589,Prospect,Financial Services,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,Yes,83,77,86,Uncovered,No Owner
+A0590,Catalyst Manufacturing 590,Prospect,Financial Services,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,58,75,75,Covered,Hunter
+A0591,Evergreen Holdings 591,Prospect,Financial Services,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,62,72,56,Uncovered,No Owner
+A0592,Summit Capital 592,Customer,Technology,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,Yes,No,85,76,80,Covered,Farmer
+A0593,Catalyst Group 593,Prospect,Manufacturing,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,52,65,56,Uncovered,No Owner
+A0594,Clearview Ventures 594,Prospect,Healthcare,Middle East,Qatar,GCC,Strategic,10000+,$5B+,CRO,Strategy,Tier 1,No,Yes,59,57,58,Covered,Hunter
+A0595,Trinity Solutions 595,Prospect,Manufacturing,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,73,77,78,Uncovered,No Owner
+A0596,Apex Digital 596,Prospect,Financial Services,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,70,90,83,Covered,Hunter
+A0597,Nexus Group 597,Customer,Healthcare,APAC,Japan,Japan,Strategic,10000+,$5B+,CFO,Product,Tier 1,Yes,Yes,67,69,54,Covered,Farmer
+A0598,Quantum Holdings 598,Prospect,Financial Services,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,76,99,75,Uncovered,No Owner
+A0599,Nova Analytics 599,Prospect,Healthcare,Middle East,Qatar,GCC,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,No,Yes,79,82,64,Covered,Hunter
+A0600,Clearview Ventures 600,Prospect,Financial Services,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,89,78,80,Covered,Hunter
+A0601,Evergreen Analytics 601,Prospect,Technology,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,92,82,80,Uncovered,No Owner
+A0602,Horizon Labs 602,Customer,Financial Services,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,Yes,No,78,99,89,Covered,Farmer
+A0603,Horizon Manufacturing 603,Prospect,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,55,74,67,Uncovered,No Owner
+A0604,Sterling Holdings 604,Prospect,Healthcare,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,74,58,73,Uncovered,No Owner
+A0605,Trinity Capital 605,Customer,Technology,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,Yes,Yes,62,80,64,Covered,Farmer
+A0606,Apex Health 606,Customer,Financial Services,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,93,80,84,Covered,Farmer
+A0607,Vertex Ventures 607,Prospect,Technology,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,66,73,75,Uncovered,No Owner
+A0608,Summit Advisory 608,Customer,Manufacturing,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,67,32,54,Covered,Farmer
+A0609,Northstar Global 609,Customer,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,Yes,No,66,74,63,Uncovered,No Owner
+A0610,Atlas Manufacturing 610,Prospect,Manufacturing,North America,Canada,Canada,Strategic,10000+,$5B+,Product,CFO,Tier 1,No,Yes,63,57,66,Covered,Hunter
+A0611,Apex Group 611,Prospect,Healthcare,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,86,51,74,Uncovered,No Owner
+A0612,Apex Systems 612,Customer,Healthcare,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,Yes,No,76,83,70,Uncovered,No Owner
+A0613,Quantum Advisory 613,Customer,Financial Services,APAC,India,India,Strategic,10000+,$5B+,Strategy,CFO,Tier 1,Yes,Yes,63,66,53,Uncovered,No Owner
+A0614,Horizon Health 614,Prospect,Healthcare,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Product,Strategy,Tier 3,No,No,80,60,66,Uncovered,No Owner
+A0615,Nova Systems 615,Customer,Technology,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,Yes,No,90,70,75,Covered,Farmer
+A0616,Crescent Advisory 616,Customer,Healthcare,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,Yes,No,59,63,56,Uncovered,No Owner
+A0617,Crescent Ventures 617,Prospect,Technology,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,72,76,68,Covered,Hunter
+A0618,Horizon Holdings 618,Prospect,Technology,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,80,97,84,Uncovered,No Owner
+A0619,Pioneer Industries 619,Prospect,Manufacturing,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,51,69,71,Uncovered,No Owner
+A0620,Northstar Systems 620,Prospect,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,71,58,45,Covered,Hunter
+A0621,Nova Enterprises 621,Prospect,Technology,North America,Canada,Canada,Strategic,10000+,$5B+,CRO,Product,Tier 1,No,Yes,68,88,78,Uncovered,No Owner
+A0622,Nexus Solutions 622,Customer,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,Yes,No,89,87,73,Uncovered,No Owner
+A0623,Apex Technologies 623,Prospect,Financial Services,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,69,85,94,Covered,Hunter
+A0624,Trinity Data 624,Customer,Financial Services,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,68,54,50,Uncovered,No Owner
+A0625,Atlas Industries 625,Customer,Healthcare,North America,United States,US East,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,Yes,Yes,59,86,66,Covered,Farmer
+A0626,Nexus Networks 626,Customer,Technology,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,Yes,No,70,78,67,Covered,Farmer
+A0627,Evergreen Advisory 627,Customer,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,Yes,No,82,79,82,Covered,Farmer
+A0628,Trinity Health 628,Customer,Manufacturing,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,No,68,75,69,Covered,Farmer
+A0629,Evergreen Solutions 629,Customer,Manufacturing,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,Yes,68,63,60,Covered,Farmer
+A0630,Catalyst Capital 630,Customer,Financial Services,North America,United States,US West,Strategic,10000+,$5B+,CFO,CRO,Tier 1,Yes,Yes,58,81,66,Covered,Farmer
+A0631,Pioneer Digital 631,Prospect,Technology,North America,United States,US West,Strategic,10000+,$5B+,Strategy,Product,Tier 1,No,Yes,78,75,80,Uncovered,No Owner
+A0632,Summit Partners 632,Prospect,Technology,North America,United States,US East,Strategic,10000+,$5B+,Strategy,CFO,Tier 1,No,Yes,82,74,66,Uncovered,No Owner
+A0633,Frontier Global 633,Customer,Manufacturing,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,Yes,No,61,77,70,Covered,Farmer
+A0634,Catalyst Advisory 634,Customer,Healthcare,APAC,Singapore,Singapore,Strategic,10000+,$5B+,Product,Strategy,Tier 1,Yes,Yes,77,90,72,Covered,Farmer
+A0635,Quantum Industries 635,Customer,Financial Services,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,Yes,No,89,74,68,Covered,Farmer
+A0636,Summit Health 636,Prospect,Healthcare,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,62,71,67,Covered,Hunter
+A0637,Nova Networks 637,Prospect,Technology,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,77,78,75,Uncovered,No Owner
+A0638,Apex Networks 638,Prospect,Healthcare,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,Yes,74,58,67,Covered,Hunter
+A0639,Nexus Global 639,Customer,Technology,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,Yes,No,56,97,70,Covered,Farmer
+A0640,Trinity Global 640,Customer,Financial Services,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,Yes,Yes,85,96,96,Covered,Farmer
+A0641,Frontier Holdings 641,Prospect,Healthcare,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,66,70,58,Covered,Hunter
+A0642,Frontier Partners 642,Prospect,Technology,North America,United States,US West,Strategic,10000+,$5B+,Product,CFO,Tier 1,No,Yes,84,78,81,Uncovered,No Owner
+A0643,Frontier Networks 643,Prospect,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,60,74,75,Uncovered,No Owner
+A0644,Trinity Data 644,Prospect,Financial Services,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,No,86,79,73,Uncovered,No Owner
+A0645,Nexus Group 645,Customer,Financial Services,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,74,89,95,Covered,Farmer
+A0646,Atlas Technologies 646,Customer,Healthcare,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,Yes,No,85,92,85,Covered,Farmer
+A0647,Clearview Digital 647,Customer,Technology,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,No,70,79,57,Covered,Farmer
+A0648,Apex Capital 648,Prospect,Manufacturing,APAC,Japan,Japan,Strategic,10000+,$5B+,CFO,Product,Tier 1,No,Yes,63,68,67,Covered,Hunter
+A0649,Vertex Advisory 649,Prospect,Technology,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,66,83,62,Covered,Hunter
+A0650,Nexus Industries 650,Customer,Financial Services,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,Yes,No,61,86,84,Covered,Farmer
+A0651,Summit Ventures 651,Customer,Manufacturing,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,78,45,52,Covered,Farmer
+A0652,Meridian Systems 652,Prospect,Financial Services,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,71,87,73,Covered,Hunter
+A0653,Horizon Systems 653,Prospect,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,54,66,73,Uncovered,No Owner
+A0654,Pioneer Global 654,Prospect,Healthcare,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,75,77,72,Covered,Hunter
+A0655,Atlas Capital 655,Prospect,Technology,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,66,86,80,Uncovered,No Owner
+A0656,Northstar Analytics 656,Customer,Healthcare,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,77,75,55,Covered,Farmer
+A0657,Sterling Manufacturing 657,Customer,Manufacturing,North America,United States,US East,Strategic,10000+,$5B+,CRO,Strategy,Tier 1,Yes,Yes,72,68,64,Covered,Farmer
+A0658,Frontier Industries 658,Prospect,Financial Services,North America,United States,US East,Strategic,10000+,$5B+,CRO,Strategy,Tier 1,No,Yes,64,94,55,Uncovered,No Owner
+A0659,Nova Partners 659,Prospect,Manufacturing,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,56,64,56,Uncovered,No Owner
+A0660,Frontier Holdings 660,Customer,Healthcare,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,Yes,No,78,94,98,Covered,Farmer
+A0661,Northstar Group 661,Prospect,Healthcare,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,65,89,53,Covered,Hunter
+A0662,Horizon Ventures 662,Prospect,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,68,89,77,Uncovered,No Owner
+A0663,Crescent Global 663,Prospect,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,68,55,39,Uncovered,No Owner
+A0664,Horizon Insights 664,Prospect,Financial Services,Europe,France,France,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,62,86,73,Uncovered,No Owner
+A0665,Quantum Health 665,Prospect,Manufacturing,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,50,49,59,Covered,Hunter
+A0666,Northstar Ventures 666,Prospect,Manufacturing,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,46,44,53,Covered,Hunter
+A0667,Sterling Systems 667,Customer,Manufacturing,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,Yes,No,58,87,80,Covered,Farmer
+A0668,Horizon Analytics 668,Prospect,Healthcare,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,Product,Strategy,Tier 3,No,No,80,78,98,Uncovered,No Owner
+A0669,Catalyst Insights 669,Customer,Technology,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,72,81,79,Covered,Farmer
+A0670,Crescent Technologies 670,Prospect,Technology,APAC,Japan,Japan,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,No,Yes,81,90,74,Uncovered,No Owner
+A0671,Pioneer Manufacturing 671,Prospect,Healthcare,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,47,73,48,Covered,Hunter
+A0672,Catalyst Global 672,Prospect,Manufacturing,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,61,30,37,Uncovered,No Owner
+A0673,Frontier Health 673,Customer,Technology,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,Yes,No,75,89,78,Covered,Farmer
+A0674,Nexus Advisory 674,Customer,Technology,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,No,98,91,90,Covered,Farmer
+A0675,Trinity Networks 675,Prospect,Technology,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,61,69,62,Covered,Hunter
+A0676,Summit Networks 676,Customer,Technology,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,Yes,No,83,83,62,Covered,Farmer
+A0677,Crescent Holdings 677,Prospect,Manufacturing,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,52,73,74,Covered,Hunter
+A0678,Frontier Digital 678,Customer,Financial Services,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,85,77,85,Covered,Farmer
+A0679,Quantum Partners 679,Prospect,Financial Services,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,60,96,66,Uncovered,No Owner
+A0680,Orion Health 680,Prospect,Manufacturing,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,70,40,57,Covered,Hunter
+A0681,Frontier Group 681,Prospect,Technology,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,73,78,71,Covered,Hunter
+A0682,Apex Technologies 682,Prospect,Manufacturing,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,67,71,86,Uncovered,No Owner
+A0683,BluePeak Advisory 683,Prospect,Manufacturing,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,55,72,74,Covered,Hunter
+A0684,Summit Capital 684,Prospect,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,67,90,77,Covered,Hunter
+A0685,Northstar Digital 685,Prospect,Manufacturing,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,52,56,60,Covered,Hunter
+A0686,Pioneer Partners 686,Prospect,Healthcare,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,49,55,45,Covered,Hunter
+A0687,Evergreen Technologies 687,Customer,Financial Services,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,Yes,No,94,78,80,Covered,Farmer
+A0688,Crescent Group 688,Prospect,Healthcare,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Product,Strategy,Tier 3,No,No,67,58,65,Covered,Hunter
+A0689,Frontier Health 689,Prospect,Manufacturing,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,Product,Strategy,Tier 3,No,No,66,69,79,Covered,Hunter
+A0690,Nova Technologies 690,Customer,Healthcare,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,Yes,No,54,69,46,Covered,Farmer
+A0691,Northstar Partners 691,Customer,Financial Services,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,71,94,69,Covered,Farmer
+A0692,Sterling Technologies 692,Prospect,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,80,88,84,Uncovered,No Owner
+A0693,Atlas Global 693,Customer,Financial Services,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,Yes,No,89,75,63,Covered,Farmer
+A0694,Apex Systems 694,Prospect,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,62,71,72,Uncovered,No Owner
+A0695,Orion Manufacturing 695,Customer,Manufacturing,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,64,84,71,Covered,Farmer
+A0696,Evergreen Technologies 696,Prospect,Healthcare,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,77,74,70,Uncovered,No Owner
+A0697,Quantum Labs 697,Prospect,Manufacturing,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,44,74,57,Covered,Hunter
+A0698,Orion Capital 698,Prospect,Financial Services,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,84,74,74,Uncovered,No Owner
+A0699,Vertex Holdings 699,Prospect,Technology,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,72,82,71,Uncovered,No Owner
+A0700,Northstar Labs 700,Customer,Technology,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,84,61,67,Uncovered,No Owner
+A0701,Nova Health 701,Prospect,Financial Services,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,78,78,77,Uncovered,No Owner
+A0702,Summit Solutions 702,Prospect,Manufacturing,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,76,67,71,Uncovered,No Owner
+A0703,Crescent Holdings 703,Customer,Healthcare,APAC,India,India,Strategic,10000+,$5B+,Product,CRO,Tier 1,Yes,Yes,72,62,66,Covered,Farmer
+A0704,Sterling Capital 704,Prospect,Financial Services,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,56,89,77,Uncovered,No Owner
+A0705,BluePeak Labs 705,Prospect,Financial Services,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,81,95,82,Covered,Hunter
+A0706,Vertex Capital 706,Customer,Healthcare,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,Yes,No,66,87,81,Covered,Farmer
+A0707,Evergreen Global 707,Prospect,Technology,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,60,89,60,Uncovered,No Owner
+A0708,Orion Health 708,Customer,Technology,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,93,91,93,Covered,Farmer
+A0709,Apex Health 709,Customer,Technology,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,Yes,No,83,81,79,Covered,Farmer
+A0710,Orion Manufacturing 710,Prospect,Healthcare,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,61,69,65,Uncovered,No Owner
+A0711,Summit Global 711,Prospect,Technology,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,72,61,55,Uncovered,No Owner
+A0712,Pioneer Manufacturing 712,Prospect,Manufacturing,APAC,Japan,Japan,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,No,Yes,56,59,68,Uncovered,No Owner
+A0713,Horizon Systems 713,Customer,Financial Services,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,Yes,No,59,99,85,Covered,Farmer
+A0714,Nova Technologies 714,Prospect,Technology,APAC,Singapore,Singapore,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,No,Yes,70,99,75,Uncovered,No Owner
+A0715,Summit Systems 715,Prospect,Technology,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,73,65,76,Covered,Hunter
+A0716,Meridian Solutions 716,Prospect,Financial Services,APAC,Australia,Australia,Strategic,10000+,$5B+,Strategy,CFO,Tier 1,No,Yes,92,84,72,Uncovered,No Owner
+A0717,Frontier Systems 717,Prospect,Manufacturing,Europe,France,France,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,82,74,58,Covered,Hunter
+A0718,Quantum Advisory 718,Customer,Financial Services,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,Yes,No,71,77,82,Covered,Farmer
+A0719,Nexus Industries 719,Prospect,Healthcare,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,70,55,65,Covered,Hunter
+A0720,Nexus Enterprises 720,Customer,Manufacturing,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,Yes,No,73,68,74,Covered,Farmer
+A0721,Clearview Systems 721,Customer,Financial Services,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,No,58,99,56,Covered,Farmer
+A0722,Trinity Global 722,Prospect,Manufacturing,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,58,62,54,Covered,Hunter
+A0723,Meridian Capital 723,Customer,Manufacturing,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,74,59,58,Covered,Farmer
+A0724,Summit Solutions 724,Customer,Technology,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,68,88,84,Covered,Farmer
+A0725,Atlas Technologies 725,Prospect,Manufacturing,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,50,60,43,Covered,Hunter
+A0726,Quantum Analytics 726,Customer,Financial Services,APAC,Australia,Australia,Strategic,10000+,$5B+,CRO,Product,Tier 1,Yes,Yes,85,77,80,Covered,Farmer
+A0727,Atlas Advisory 727,Prospect,Healthcare,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,52,99,81,Uncovered,No Owner
+A0728,BluePeak Global 728,Customer,Financial Services,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,70,92,68,Uncovered,No Owner
+A0729,Summit Manufacturing 729,Prospect,Manufacturing,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,65,78,62,Covered,Hunter
+A0730,Nova Ventures 730,Prospect,Healthcare,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,77,65,74,Covered,Hunter
+A0731,Pioneer Systems 731,Prospect,Healthcare,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,52,63,72,Covered,Hunter
+A0732,Catalyst Solutions 732,Customer,Healthcare,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,59,69,54,Covered,Farmer
+A0733,Orion Advisory 733,Prospect,Healthcare,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,82,59,78,Uncovered,No Owner
+A0734,Trinity Capital 734,Prospect,Healthcare,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,68,89,87,Uncovered,No Owner
+A0735,Quantum Partners 735,Customer,Technology,APAC,Australia,Australia,Strategic,10000+,$5B+,CRO,Strategy,Tier 1,Yes,Yes,64,93,80,Uncovered,No Owner
+A0736,Atlas Partners 736,Customer,Healthcare,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,No,76,71,72,Covered,Farmer
+A0737,Orion Group 737,Customer,Financial Services,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,Yes,64,98,68,Covered,Farmer
+A0738,Trinity Ventures 738,Prospect,Healthcare,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,61,60,65,Uncovered,No Owner
+A0739,Clearview Partners 739,Customer,Financial Services,North America,United States,US West,Strategic,10000+,$5B+,CFO,Strategy,Tier 1,Yes,Yes,70,75,65,Covered,Farmer
+A0740,Nexus Systems 740,Prospect,Technology,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,70,97,78,Uncovered,No Owner
+A0741,Catalyst Networks 741,Prospect,Financial Services,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,Yes,65,89,73,Covered,Hunter
+A0742,Sterling Advisory 742,Prospect,Financial Services,Europe,France,France,Strategic,10000+,$5B+,CRO,CFO,Tier 1,No,Yes,73,87,89,Uncovered,No Owner
+A0743,Clearview Manufacturing 743,Customer,Technology,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,Yes,No,70,91,60,Covered,Farmer
+A0744,Meridian Advisory 744,Prospect,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Product,Strategy,Tier 3,No,No,76,84,63,Covered,Hunter
+A0745,Evergreen Networks 745,Prospect,Technology,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,99,86,73,Covered,Hunter
+A0746,Orion Global 746,Prospect,Financial Services,Middle East,Qatar,GCC,Strategic,10000+,$5B+,CRO,CFO,Tier 1,No,Yes,67,78,68,Covered,Hunter
+A0747,Evergreen Manufacturing 747,Prospect,Financial Services,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,62,70,56,Uncovered,No Owner
+A0748,Frontier Solutions 748,Prospect,Healthcare,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,55,71,76,Covered,Hunter
+A0749,Catalyst Analytics 749,Customer,Technology,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,Yes,Yes,80,96,77,Covered,Farmer
+A0750,Pioneer Solutions 750,Customer,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,Yes,No,71,87,65,Covered,Farmer
+A0751,Nexus Solutions 751,Customer,Financial Services,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,Yes,87,87,66,Covered,Farmer
+A0752,Catalyst Data 752,Customer,Manufacturing,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,Yes,No,66,82,78,Covered,Farmer
+A0753,Northstar Industries 753,Prospect,Manufacturing,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,35,45,45,Uncovered,No Owner
+A0754,Summit Solutions 754,Prospect,Manufacturing,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,49,76,49,Uncovered,No Owner
+A0755,Meridian Industries 755,Customer,Financial Services,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,Yes,No,67,73,64,Uncovered,No Owner
+A0756,Quantum Capital 756,Customer,Technology,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,Yes,No,58,79,67,Uncovered,No Owner
+A0757,Horizon Group 757,Prospect,Technology,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,90,98,95,Uncovered,No Owner
+A0758,Nova Technologies 758,Customer,Healthcare,North America,United States,US West,Strategic,10000+,$5B+,CFO,Strategy,Tier 1,Yes,Yes,79,52,64,Covered,Farmer
+A0759,Apex Insights 759,Customer,Manufacturing,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,Yes,No,54,66,55,Uncovered,No Owner
+A0760,Trinity Group 760,Customer,Financial Services,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,70,70,62,Covered,Farmer
+A0761,Frontier Ventures 761,Prospect,Technology,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,99,76,77,Uncovered,No Owner
+A0762,Vertex Enterprises 762,Prospect,Financial Services,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,70,99,82,Uncovered,No Owner
+A0763,Vertex Enterprises 763,Customer,Technology,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,66,75,52,Covered,Farmer
+A0764,Frontier Enterprises 764,Prospect,Financial Services,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,67,65,56,Covered,Hunter
+A0765,Evergreen Group 765,Prospect,Technology,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,84,93,57,Covered,Hunter
+A0766,Vertex Digital 766,Prospect,Financial Services,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,69,97,76,Covered,Hunter
+A0767,Crescent Technologies 767,Prospect,Technology,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,81,94,76,Covered,Hunter
+A0768,Sterling Digital 768,Prospect,Healthcare,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,81,90,98,Uncovered,No Owner
+A0769,Catalyst Analytics 769,Customer,Technology,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,No,65,96,66,Covered,Farmer
+A0770,Crescent Capital 770,Prospect,Technology,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,Yes,81,79,69,Uncovered,No Owner
+A0771,Quantum Labs 771,Prospect,Healthcare,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,67,79,79,Uncovered,No Owner
+A0772,Horizon Global 772,Customer,Manufacturing,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,78,62,72,Covered,Farmer
+A0773,Frontier Group 773,Prospect,Financial Services,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,82,65,60,Uncovered,No Owner
+A0774,Meridian Capital 774,Customer,Financial Services,Europe,France,France,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,Yes,No,63,99,83,Covered,Farmer
+A0775,Summit Digital 775,Prospect,Manufacturing,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,53,50,55,Covered,Hunter
+A0776,Meridian Global 776,Prospect,Financial Services,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,No,91,99,85,Uncovered,No Owner
+A0777,Pioneer Insights 777,Prospect,Financial Services,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,No,78,64,88,Uncovered,No Owner
+A0778,Catalyst Analytics 778,Customer,Technology,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,Yes,No,92,71,72,Uncovered,No Owner
+A0779,Pioneer Ventures 779,Customer,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,Yes,No,71,92,72,Covered,Farmer
+A0780,Northstar Networks 780,Prospect,Manufacturing,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,52,67,63,Uncovered,No Owner
+A0781,BluePeak Advisory 781,Customer,Technology,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,Yes,No,69,86,80,Covered,Farmer
+A0782,Summit Insights 782,Customer,Healthcare,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,Yes,No,64,80,86,Covered,Farmer
+A0783,Trinity Capital 783,Prospect,Manufacturing,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,37,94,59,Covered,Hunter
+A0784,Vertex Digital 784,Customer,Financial Services,Europe,Sweden,Nordics,Strategic,10000+,$5B+,Product,CRO,Tier 1,Yes,Yes,76,91,71,Uncovered,No Owner
+A0785,BluePeak Group 785,Prospect,Manufacturing,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,No,35,70,54,Covered,Hunter
+A0786,Catalyst Solutions 786,Customer,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,85,85,68,Covered,Farmer
+A0787,Horizon Technologies 787,Prospect,Financial Services,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,79,95,76,Uncovered,No Owner
+A0788,Sterling Data 788,Prospect,Financial Services,APAC,Australia,Australia,Strategic,10000+,$5B+,Product,CFO,Tier 1,No,Yes,87,91,90,Uncovered,No Owner
+A0789,Sterling Analytics 789,Prospect,Healthcare,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,35,79,67,Covered,Hunter
+A0790,Quantum Enterprises 790,Prospect,Financial Services,Europe,France,France,Strategic,10000+,$5B+,Strategy,Product,Tier 1,No,Yes,60,95,80,Uncovered,No Owner
+A0791,Meridian Advisory 791,Customer,Healthcare,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,No,72,71,71,Covered,Farmer
+A0792,Orion Systems 792,Prospect,Technology,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,85,59,59,Covered,Hunter
+A0793,Quantum Manufacturing 793,Customer,Technology,Middle East,Qatar,GCC,Strategic,10000+,$5B+,CFO,CRO,Tier 1,Yes,Yes,71,94,68,Covered,Farmer
+A0794,Clearview Partners 794,Prospect,Financial Services,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,73,75,70,Uncovered,No Owner
+A0795,Summit Holdings 795,Customer,Financial Services,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,Yes,No,69,86,69,Uncovered,No Owner
+A0796,Trinity Enterprises 796,Prospect,Technology,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,76,90,69,Covered,Hunter
+A0797,Trinity Solutions 797,Prospect,Healthcare,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,77,64,72,Covered,Hunter
+A0798,Orion Industries 798,Customer,Financial Services,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,Yes,No,61,68,52,Covered,Farmer
+A0799,Sterling Technologies 799,Customer,Financial Services,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,Yes,No,81,85,69,Uncovered,No Owner
+A0800,Clearview Digital 800,Prospect,Manufacturing,North America,United States,US West,Strategic,10000+,$5B+,Product,CFO,Tier 1,No,Yes,58,75,43,Covered,Hunter
+A0801,Horizon Health 801,Prospect,Financial Services,North America,United States,US West,Strategic,10000+,$5B+,Strategy,CFO,Tier 1,No,Yes,86,97,89,Covered,Hunter
+A0802,Vertex Health 802,Prospect,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,65,87,84,Uncovered,No Owner
+A0803,Trinity Holdings 803,Prospect,Manufacturing,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,71,81,80,Covered,Hunter
+A0804,Horizon Partners 804,Prospect,Healthcare,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,57,60,45,Covered,Hunter
+A0805,Nova Global 805,Customer,Technology,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,Yes,No,62,83,72,Covered,Farmer
+A0806,Nexus Capital 806,Prospect,Technology,Europe,Sweden,Nordics,Strategic,10000+,$5B+,CFO,Product,Tier 1,No,Yes,90,78,75,Covered,Hunter
+A0807,Catalyst Analytics 807,Prospect,Technology,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,54,87,79,Uncovered,No Owner
+A0808,Atlas Capital 808,Prospect,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,70,72,50,Covered,Hunter
+A0809,Orion Capital 809,Prospect,Manufacturing,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,62,59,43,Uncovered,No Owner
+A0810,Summit Insights 810,Prospect,Technology,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,69,86,68,Uncovered,No Owner
+A0811,Meridian Analytics 811,Customer,Technology,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,Yes,No,65,98,90,Uncovered,No Owner
+A0812,Orion Partners 812,Prospect,Healthcare,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,55,89,79,Uncovered,No Owner
+A0813,Nexus Advisory 813,Prospect,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,83,61,50,Covered,Hunter
+A0814,Pioneer Networks 814,Prospect,Manufacturing,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,41,74,59,Covered,Hunter
+A0815,Orion Partners 815,Prospect,Healthcare,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,56,70,71,Uncovered,No Owner
+A0816,Nexus Global 816,Customer,Technology,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,65,87,71,Uncovered,No Owner
+A0817,Frontier Partners 817,Prospect,Technology,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,74,64,60,Uncovered,No Owner
+A0818,Atlas Labs 818,Prospect,Technology,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,65,68,61,Covered,Hunter
+A0819,Orion Enterprises 819,Customer,Manufacturing,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,Yes,No,77,68,55,Covered,Farmer
+A0820,Quantum Health 820,Prospect,Technology,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,86,87,78,Uncovered,No Owner
+A0821,Sterling Solutions 821,Customer,Manufacturing,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,Yes,No,50,57,55,Covered,Farmer
+A0822,Orion Labs 822,Customer,Manufacturing,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,Yes,No,42,60,41,Uncovered,No Owner
+A0823,Vertex Health 823,Prospect,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,No,75,79,76,Uncovered,No Owner
+A0824,Trinity Analytics 824,Customer,Financial Services,North America,United States,US West,Strategic,10000+,$5B+,CFO,Product,Tier 1,Yes,Yes,82,80,81,Uncovered,No Owner
+A0825,BluePeak Technologies 825,Prospect,Healthcare,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,62,70,68,Uncovered,No Owner
+A0826,Summit Industries 826,Customer,Financial Services,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,Yes,No,82,88,80,Covered,Farmer
+A0827,Orion Advisory 827,Prospect,Manufacturing,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,88,65,94,Uncovered,No Owner
+A0828,Nova Ventures 828,Customer,Manufacturing,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,51,70,71,Covered,Farmer
+A0829,Orion Insights 829,Prospect,Healthcare,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,Product,Strategy,Tier 3,No,No,81,89,75,Covered,Hunter
+A0830,Northstar Enterprises 830,Prospect,Financial Services,Europe,France,France,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,88,81,93,Covered,Hunter
+A0831,Catalyst Data 831,Prospect,Manufacturing,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,Yes,92,71,70,Uncovered,No Owner
+A0832,Pioneer Labs 832,Customer,Financial Services,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,Yes,No,79,98,72,Covered,Farmer
+A0833,Meridian Solutions 833,Prospect,Healthcare,APAC,India,India,Strategic,10000+,$5B+,Product,CFO,Tier 1,No,Yes,75,81,86,Uncovered,No Owner
+A0834,Quantum Industries 834,Customer,Manufacturing,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,Yes,No,52,59,53,Uncovered,No Owner
+A0835,Orion Systems 835,Prospect,Healthcare,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,72,69,70,Covered,Hunter
+A0836,Clearview Partners 836,Customer,Technology,Europe,Germany,DACH,Strategic,10000+,$5B+,CFO,CRO,Tier 1,Yes,Yes,68,83,69,Covered,Farmer
+A0837,Nova Enterprises 837,Prospect,Manufacturing,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,62,55,66,Covered,Hunter
+A0838,Catalyst Technologies 838,Customer,Healthcare,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,62,89,80,Covered,Farmer
+A0839,Meridian Partners 839,Prospect,Financial Services,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,75,92,73,Uncovered,No Owner
+A0840,Meridian Advisory 840,Prospect,Manufacturing,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,76,58,66,Uncovered,No Owner
+A0841,Clearview Health 841,Customer,Healthcare,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,Yes,No,65,79,81,Covered,Farmer
+A0842,Northstar Ventures 842,Customer,Financial Services,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,Yes,Yes,77,74,81,Uncovered,No Owner
+A0843,Frontier Labs 843,Prospect,Technology,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,No,No,85,77,69,Uncovered,No Owner
+A0844,Clearview Capital 844,Prospect,Manufacturing,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,62,76,66,Covered,Hunter
+A0845,Orion Digital 845,Prospect,Technology,Europe,France,France,Strategic,10000+,$5B+,Product,CRO,Tier 1,No,Yes,69,79,56,Covered,Hunter
+A0846,Pioneer Enterprises 846,Customer,Manufacturing,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,No,75,51,73,Covered,Farmer
+A0847,Frontier Industries 847,Prospect,Technology,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,63,90,74,Covered,Hunter
+A0848,Frontier Analytics 848,Customer,Manufacturing,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,Yes,No,68,52,42,Covered,Farmer
+A0849,Nova Health 849,Customer,Technology,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,Yes,No,81,92,60,Covered,Farmer
+A0850,Atlas Enterprises 850,Customer,Technology,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,Yes,No,82,88,72,Covered,Farmer
+A0851,Evergreen Solutions 851,Prospect,Technology,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,84,70,71,Covered,Hunter
+A0852,Nexus Holdings 852,Prospect,Manufacturing,North America,United States,US West,Strategic,10000+,$5B+,Product,CFO,Tier 1,No,Yes,52,54,45,Covered,Hunter
+A0853,Atlas Advisory 853,Prospect,Technology,North America,United States,US West,Strategic,10000+,$5B+,CFO,CRO,Tier 1,No,Yes,64,84,73,Uncovered,No Owner
+A0854,Orion Networks 854,Prospect,Technology,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,62,87,74,Covered,Hunter
+A0855,Catalyst Solutions 855,Prospect,Healthcare,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,82,82,77,Uncovered,No Owner
+A0856,Catalyst Health 856,Customer,Financial Services,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,Yes,No,69,74,57,Covered,Farmer
+A0857,Nova Manufacturing 857,Customer,Healthcare,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,Yes,No,69,74,62,Covered,Farmer
+A0858,Atlas Partners 858,Prospect,Financial Services,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,67,87,63,Covered,Hunter
+A0859,Summit Group 859,Customer,Technology,Europe,France,France,Strategic,10000+,$5B+,Product,Strategy,Tier 1,Yes,Yes,72,73,65,Uncovered,No Owner
+A0860,Sterling Insights 860,Prospect,Healthcare,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,Yes,67,94,77,Uncovered,No Owner
+A0861,Vertex Analytics 861,Customer,Healthcare,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,Yes,No,65,67,66,Covered,Farmer
+A0862,Nova Technologies 862,Customer,Financial Services,APAC,Japan,Japan,Strategic,10000+,$5B+,CFO,Strategy,Tier 1,Yes,Yes,67,72,66,Covered,Farmer
+A0863,Vertex Enterprises 863,Customer,Technology,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,87,92,97,Covered,Farmer
+A0864,Nexus Data 864,Customer,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,Yes,No,64,76,76,Covered,Farmer
+A0865,Frontier Analytics 865,Customer,Healthcare,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,Yes,No,71,72,70,Covered,Farmer
+A0866,Frontier Capital 866,Prospect,Manufacturing,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,49,73,65,Uncovered,No Owner
+A0867,Meridian Manufacturing 867,Prospect,Technology,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,79,88,74,Uncovered,No Owner
+A0868,BluePeak Manufacturing 868,Prospect,Financial Services,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,60,87,61,Uncovered,No Owner
+A0869,Evergreen Partners 869,Customer,Financial Services,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,Yes,No,78,93,89,Covered,Farmer
+A0870,Nova Technologies 870,Prospect,Healthcare,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,Yes,69,78,70,Covered,Hunter
+A0871,BluePeak Data 871,Customer,Financial Services,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,Yes,No,81,98,78,Covered,Farmer
+A0872,Meridian Labs 872,Customer,Financial Services,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,60,85,94,Covered,Farmer
+A0873,Quantum Labs 873,Prospect,Technology,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,93,72,63,Covered,Hunter
+A0874,Horizon Insights 874,Customer,Manufacturing,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,Yes,No,48,43,56,Uncovered,No Owner
+A0875,Meridian Labs 875,Prospect,Financial Services,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,83,85,69,Uncovered,No Owner
+A0876,Trinity Industries 876,Prospect,Manufacturing,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,51,87,76,Uncovered,No Owner
+A0877,Frontier Manufacturing 877,Customer,Healthcare,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,Yes,Yes,60,65,52,Uncovered,No Owner
+A0878,BluePeak Health 878,Customer,Technology,Europe,France,France,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,Yes,Yes,93,78,69,Covered,Farmer
+A0879,Northstar Industries 879,Customer,Manufacturing,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,45,61,51,Covered,Farmer
+A0880,Trinity Solutions 880,Prospect,Financial Services,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,No,62,88,73,Covered,Hunter
+A0881,BluePeak Global 881,Prospect,Manufacturing,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,46,66,45,Covered,Hunter
+A0882,Nexus Labs 882,Customer,Manufacturing,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,Yes,No,59,62,61,Uncovered,No Owner
+A0883,Catalyst Global 883,Prospect,Healthcare,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,59,66,55,Covered,Hunter
+A0884,Orion Enterprises 884,Customer,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,67,84,64,Uncovered,No Owner
+A0885,Horizon Manufacturing 885,Prospect,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,72,81,66,Covered,Hunter
+A0886,Pioneer Ventures 886,Customer,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,Yes,61,81,54,Uncovered,No Owner
+A0887,Apex Enterprises 887,Prospect,Technology,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,81,99,86,Covered,Hunter
+A0888,Evergreen Technologies 888,Customer,Manufacturing,APAC,Japan,Japan,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,Yes,No,55,60,56,Covered,Farmer
+A0889,Orion Ventures 889,Prospect,Financial Services,Middle East,Qatar,GCC,Strategic,10000+,$5B+,CFO,CRO,Tier 1,No,Yes,54,70,85,Covered,Hunter
+A0890,Northstar Holdings 890,Prospect,Manufacturing,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,52,63,74,Covered,Hunter
+A0891,Horizon Partners 891,Customer,Financial Services,North America,United States,US East,Strategic,10000+,$5B+,CFO,Strategy,Tier 1,Yes,Yes,86,96,63,Covered,Farmer
+A0892,Catalyst Solutions 892,Customer,Healthcare,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,Yes,No,74,87,78,Uncovered,No Owner
+A0893,Frontier Analytics 893,Prospect,Manufacturing,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,62,63,60,Covered,Hunter
+A0894,Atlas Insights 894,Prospect,Manufacturing,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Product,Strategy,Tier 3,No,No,86,68,93,Covered,Hunter
+A0895,Atlas Advisory 895,Prospect,Technology,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,67,79,64,Uncovered,No Owner
+A0896,Meridian Capital 896,Prospect,Manufacturing,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,Product,Strategy,Tier 3,No,No,52,52,62,Uncovered,No Owner
+A0897,Quantum Networks 897,Prospect,Technology,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,84,89,69,Uncovered,No Owner
+A0898,Horizon Global 898,Prospect,Manufacturing,APAC,Singapore,Singapore,Strategic,10000+,$5B+,Product,CFO,Tier 1,No,Yes,47,53,51,Uncovered,No Owner
+A0899,Quantum Capital 899,Customer,Technology,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,Yes,No,82,68,60,Covered,Farmer
+A0900,Trinity Holdings 900,Prospect,Technology,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,88,82,79,Uncovered,No Owner
+A0901,Pioneer Solutions 901,Prospect,Financial Services,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,52,64,61,Covered,Hunter
+A0902,Atlas Enterprises 902,Prospect,Manufacturing,APAC,India,India,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,64,80,71,Covered,Hunter
+A0903,Evergreen Holdings 903,Prospect,Financial Services,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,Yes,70,87,68,Covered,Hunter
+A0904,Vertex Insights 904,Prospect,Financial Services,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,49,85,62,Covered,Hunter
+A0905,Summit Analytics 905,Prospect,Healthcare,APAC,India,India,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,61,87,68,Uncovered,No Owner
+A0906,Northstar Partners 906,Prospect,Technology,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,65,78,60,Uncovered,No Owner
+A0907,Nova Labs 907,Prospect,Technology,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,Yes,67,75,59,Covered,Hunter
+A0908,Frontier Holdings 908,Customer,Healthcare,Europe,Germany,DACH,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,Yes,No,38,66,38,Covered,Farmer
+A0909,Catalyst Labs 909,Prospect,Healthcare,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,50,82,73,Uncovered,No Owner
+A0910,Nexus Networks 910,Prospect,Healthcare,Europe,Sweden,Nordics,Strategic,10000+,$5B+,CFO,Strategy,Tier 1,No,Yes,61,68,55,Uncovered,No Owner
+A0911,Summit Global 911,Prospect,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,55,70,78,Uncovered,No Owner
+A0912,Horizon Ventures 912,Customer,Healthcare,North America,United States,US West,Strategic,10000+,$5B+,Product,CFO,Tier 1,Yes,Yes,64,73,67,Covered,Farmer
+A0913,Evergreen Insights 913,Prospect,Technology,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,64,83,79,Uncovered,No Owner
+A0914,Catalyst Capital 914,Customer,Healthcare,North America,Canada,Canada,Strategic,10000+,$5B+,CFO,Strategy,Tier 1,Yes,Yes,74,89,76,Covered,Farmer
+A0915,Sterling Group 915,Prospect,Manufacturing,APAC,Singapore,Singapore,Strategic,10000+,$5B+,Product,CFO,Tier 1,No,Yes,62,63,52,Covered,Hunter
+A0916,Vertex Digital 916,Prospect,Technology,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Product,Strategy,Tier 3,No,No,53,82,79,Uncovered,No Owner
+A0917,Sterling Health 917,Customer,Technology,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,Yes,No,74,97,88,Uncovered,No Owner
+A0918,BluePeak Labs 918,Prospect,Manufacturing,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,61,59,49,Uncovered,No Owner
+A0919,Nexus Ventures 919,Prospect,Financial Services,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,83,74,78,Covered,Hunter
+A0920,BluePeak Industries 920,Customer,Healthcare,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,Product,CRO,Tier 3,Yes,No,95,64,61,Uncovered,No Owner
+A0921,Meridian Solutions 921,Prospect,Healthcare,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,66,66,66,Uncovered,No Owner
+A0922,Horizon Holdings 922,Customer,Manufacturing,APAC,Australia,Australia,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,Yes,No,78,59,66,Covered,Farmer
+A0923,Pioneer Partners 923,Prospect,Manufacturing,APAC,Singapore,Singapore,Strategic,10000+,$5B+,CRO,Strategy,Tier 1,No,Yes,35,75,51,Uncovered,No Owner
+A0924,Northstar Systems 924,Customer,Healthcare,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,No,63,79,78,Uncovered,No Owner
+A0925,Sterling Partners 925,Prospect,Manufacturing,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,69,88,73,Covered,Hunter
+A0926,Clearview Manufacturing 926,Prospect,Financial Services,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,71,99,81,Uncovered,No Owner
+A0927,Nexus Partners 927,Customer,Healthcare,Europe,Germany,DACH,Strategic,10000+,$5B+,Strategy,CRO,Tier 1,Yes,Yes,68,86,74,Uncovered,No Owner
+A0928,Orion Technologies 928,Customer,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,No,84,90,88,Covered,Farmer
+A0929,Atlas Networks 929,Prospect,Technology,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,No,No,71,93,63,Uncovered,No Owner
+A0930,Orion Technologies 930,Customer,Technology,Europe,Sweden,Nordics,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,62,79,85,Uncovered,No Owner
+A0931,Frontier Digital 931,Prospect,Manufacturing,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,No,No,65,55,56,Uncovered,No Owner
+A0932,Pioneer Systems 932,Customer,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,No,77,63,62,Covered,Farmer
+A0933,BluePeak Digital 933,Prospect,Manufacturing,Europe,Germany,DACH,Strategic,10000+,$5B+,CRO,CFO,Tier 1,No,Yes,53,63,53,Covered,Hunter
+A0934,Clearview Industries 934,Customer,Financial Services,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,Yes,No,70,74,61,Uncovered,No Owner
+A0935,Atlas Solutions 935,Prospect,Technology,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,No,Yes,95,94,88,Uncovered,No Owner
+A0936,BluePeak Solutions 936,Prospect,Healthcare,Middle East,Qatar,GCC,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,73,87,77,Covered,Hunter
+A0937,Northstar Insights 937,Prospect,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,49,79,63,Uncovered,No Owner
+A0938,Trinity Capital 938,Prospect,Manufacturing,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,55,62,40,Uncovered,No Owner
+A0939,Sterling Digital 939,Prospect,Technology,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,80,74,66,Covered,Hunter
+A0940,BluePeak Industries 940,Customer,Financial Services,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,Yes,No,65,85,61,Covered,Farmer
+A0941,BluePeak Holdings 941,Prospect,Financial Services,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,No,No,66,90,91,Covered,Hunter
+A0942,Nova Insights 942,Prospect,Financial Services,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,94,72,77,Uncovered,No Owner
+A0943,Meridian Technologies 943,Prospect,Financial Services,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,85,89,74,Covered,Hunter
+A0944,Quantum Data 944,Prospect,Financial Services,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,No,No,63,68,64,Uncovered,No Owner
+A0945,Northstar Systems 945,Prospect,Healthcare,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,84,94,90,Covered,Hunter
+A0946,Pioneer Analytics 946,Prospect,Financial Services,Middle East,Qatar,GCC,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,78,72,78,Uncovered,No Owner
+A0947,Meridian Technologies 947,Customer,Manufacturing,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,71,80,84,Uncovered,No Owner
+A0948,Trinity Networks 948,Prospect,Technology,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,89,85,72,Uncovered,No Owner
+A0949,Northstar Ventures 949,Prospect,Technology,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,74,99,72,Uncovered,No Owner
+A0950,Trinity Capital 950,Prospect,Financial Services,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,99,99,76,Uncovered,No Owner
+A0951,Catalyst Networks 951,Prospect,Financial Services,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,No,No,61,68,68,Covered,Hunter
+A0952,Orion Digital 952,Customer,Financial Services,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,Yes,No,70,57,65,Covered,Farmer
+A0953,Catalyst Labs 953,Prospect,Manufacturing,North America,Canada,Canada,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,65,61,78,Covered,Hunter
+A0954,Atlas Ventures 954,Prospect,Manufacturing,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,Yes,71,60,84,Uncovered,No Owner
+A0955,Nova Holdings 955,Customer,Healthcare,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,Yes,Yes,95,75,84,Uncovered,No Owner
+A0956,Trinity Holdings 956,Customer,Financial Services,North America,Canada,Canada,Strategic,10000+,$5B+,Strategy,CFO,Tier 1,Yes,Yes,47,78,58,Covered,Farmer
+A0957,Orion Digital 957,Customer,Financial Services,North America,United States,US West,Strategic,10000+,$5B+,Strategy,Product,Tier 1,Yes,Yes,59,87,79,Covered,Farmer
+A0958,BluePeak Holdings 958,Prospect,Manufacturing,North America,United States,US West,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,58,69,65,Uncovered,No Owner
+A0959,Evergreen Ventures 959,Customer,Manufacturing,North America,Canada,Canada,Strategic,10000+,$5B+,Strategy,Product,Tier 1,Yes,Yes,62,78,49,Covered,Farmer
+A0960,Orion Solutions 960,Prospect,Financial Services,APAC,Singapore,Singapore,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,86,99,90,Uncovered,No Owner
+A0961,Clearview Analytics 961,Customer,Manufacturing,Europe,Sweden,Nordics,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,Yes,No,74,63,59,Covered,Farmer
+A0962,Pioneer Solutions 962,Customer,Manufacturing,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,Product,CRO,Tier 2,Yes,No,86,66,86,Uncovered,No Owner
+A0963,Trinity Partners 963,Customer,Financial Services,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,Strategy,CRO,Tier 3,Yes,No,78,73,75,Covered,Farmer
+A0964,Crescent Global 964,Prospect,Technology,Middle East,United Arab Emirates,UAE,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,No,No,88,99,91,Uncovered,No Owner
+A0965,Nexus Health 965,Prospect,Manufacturing,Europe,France,France,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,No,No,37,69,77,Uncovered,No Owner
+A0966,Nexus Advisory 966,Prospect,Manufacturing,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,50,65,60,Covered,Hunter
+A0967,Crescent Technologies 967,Prospect,Healthcare,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Strategy,Product,Tier 3,No,No,55,81,84,Uncovered,No Owner
+A0968,Pioneer Analytics 968,Prospect,Technology,Europe,Germany,DACH,Enterprise,5000-9999,$1B-$5B,Strategy,CFO,Tier 2,No,No,71,68,78,Covered,Hunter
+A0969,Catalyst Enterprises 969,Customer,Technology,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,Yes,No,77,75,71,Covered,Farmer
+A0970,Horizon Solutions 970,Prospect,Technology,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,No,No,86,82,78,Covered,Hunter
+A0971,Pioneer Global 971,Customer,Healthcare,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,Yes,No,67,79,73,Covered,Farmer
+A0972,Atlas Analytics 972,Prospect,Manufacturing,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,No,No,51,63,53,Uncovered,No Owner
+A0973,Nexus Labs 973,Customer,Financial Services,Europe,Sweden,Nordics,Strategic,10000+,$5B+,Product,CFO,Tier 1,Yes,Yes,62,76,55,Uncovered,No Owner
+A0974,Atlas Health 974,Customer,Technology,Europe,France,France,Mid-Market,1000-4999,$250M-$1B,CRO,CFO,Tier 3,Yes,No,68,80,70,Covered,Farmer
+A0975,Meridian Holdings 975,Prospect,Financial Services,APAC,Australia,Australia,Mid-Market,1000-4999,$250M-$1B,CFO,CRO,Tier 3,No,No,66,82,79,Uncovered,No Owner
+A0976,BluePeak Partners 976,Prospect,Technology,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,Product,Tier 2,No,No,88,84,77,Covered,Hunter
+A0977,Clearview Insights 977,Prospect,Manufacturing,Middle East,Saudi Arabia,Saudi Arabia,Enterprise,5000-9999,$1B-$5B,Product,CFO,Tier 2,No,No,42,66,55,Covered,Hunter
+A0978,Quantum Enterprises 978,Customer,Manufacturing,Middle East,United Arab Emirates,UAE,Enterprise,5000-9999,$1B-$5B,CFO,Strategy,Tier 2,Yes,No,63,67,56,Covered,Farmer
+A0979,Northstar Industries 979,Prospect,Technology,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CFO,Product,Tier 2,No,No,74,73,63,Uncovered,No Owner
+A0980,Nova Capital 980,Customer,Manufacturing,Europe,France,France,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,58,61,59,Covered,Farmer
+A0981,BluePeak Solutions 981,Customer,Financial Services,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CRO,CFO,Tier 2,Yes,No,88,76,91,Covered,Farmer
+A0982,Evergreen Group 982,Prospect,Technology,APAC,Japan,Japan,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,No,91,87,65,Covered,Hunter
+A0983,Catalyst Partners 983,Customer,Healthcare,North America,Canada,Canada,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,No,54,82,65,Uncovered,No Owner
+A0984,Nexus Networks 984,Customer,Technology,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,CRO,Product,Tier 2,Yes,No,94,88,96,Covered,Farmer
+A0985,Apex Digital 985,Prospect,Technology,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,No,77,87,84,Covered,Hunter
+A0986,Frontier Enterprises 986,Customer,Healthcare,North America,United States,US East,Strategic,10000+,$5B+,CFO,Strategy,Tier 1,Yes,Yes,68,61,72,Covered,Farmer
+A0987,Northstar Advisory 987,Prospect,Manufacturing,North America,United States,US West,Enterprise,5000-9999,$1B-$5B,CRO,Strategy,Tier 2,No,No,62,66,61,Uncovered,No Owner
+A0988,Quantum Advisory 988,Customer,Financial Services,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CRO,Strategy,Tier 3,Yes,No,72,99,81,Covered,Farmer
+A0989,Orion Group 989,Prospect,Financial Services,APAC,Singapore,Singapore,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,59,86,82,Uncovered,No Owner
+A0990,Crescent Manufacturing 990,Customer,Manufacturing,Europe,Germany,DACH,Strategic,10000+,$5B+,Strategy,Product,Tier 1,Yes,Yes,77,83,87,Covered,Farmer
+A0991,Clearview Labs 991,Prospect,Healthcare,Europe,United Kingdom,UKI,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,No,No,60,62,49,Uncovered,No Owner
+A0992,Catalyst Partners 992,Customer,Manufacturing,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Product,Strategy,Tier 2,Yes,No,47,72,76,Uncovered,No Owner
+A0993,Evergreen Health 993,Prospect,Technology,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,Strategy,CFO,Tier 3,No,No,86,75,82,Uncovered,No Owner
+A0994,Vertex Holdings 994,Prospect,Financial Services,Europe,United Kingdom,UKI,Mid-Market,1000-4999,$250M-$1B,CFO,Product,Tier 3,No,No,63,89,68,Covered,Hunter
+A0995,Quantum Advisory 995,Customer,Technology,Middle East,Saudi Arabia,Saudi Arabia,Mid-Market,1000-4999,$250M-$1B,CRO,Product,Tier 3,Yes,No,79,82,72,Covered,Farmer
+A0996,Horizon Global 996,Prospect,Manufacturing,North America,United States,US East,Mid-Market,1000-4999,$250M-$1B,CFO,Strategy,Tier 3,No,No,58,53,46,Covered,Hunter
+A0997,Atlas Capital 997,Prospect,Healthcare,APAC,India,India,Mid-Market,1000-4999,$250M-$1B,Product,CFO,Tier 3,No,No,79,82,78,Covered,Hunter
+A0998,Nexus Systems 998,Prospect,Technology,Europe,Germany,DACH,Strategic,10000+,$5B+,CFO,Product,Tier 1,No,Yes,93,78,74,Uncovered,No Owner
+A0999,Crescent Digital 999,Customer,Technology,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,Strategy,CRO,Tier 2,Yes,No,75,80,71,Covered,Farmer
+A1000,Clearview Enterprises 1000,Customer,Healthcare,North America,United States,US East,Enterprise,5000-9999,$1B-$5B,CFO,CRO,Tier 2,Yes,No,48,65,40,Covered,Farmer

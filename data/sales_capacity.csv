@@ -1,0 +1,9 @@
+sales_team_id,geography,region,seller_type,seller_count,avg_active_opportunities_per_seller,avg_win_rate,avg_sales_cycle_days,avg_quota_usd,capacity_utilization_pct,ramp_status
+S001,North America,All Regions,Hunter,28,25,0.288,91,2623089,0.746,Partially Ramped
+S002,North America,All Regions,Farmer,42,36,0.509,87,3271055,0.818,Fully Ramped
+S003,Europe,All Regions,Hunter,18,22,0.326,132,2020861,0.784,Fully Ramped
+S004,Europe,All Regions,Farmer,30,25,0.602,85,3058642,0.823,Fully Ramped
+S005,APAC,All Regions,Hunter,16,22,0.227,116,1920912,0.748,Partially Ramped
+S006,APAC,All Regions,Farmer,24,34,0.544,84,2414646,0.93,Fully Ramped
+S007,Middle East,All Regions,Hunter,7,27,0.289,122,2323050,0.855,Fully Ramped
+S008,Middle East,All Regions,Farmer,11,33,0.546,77,3238599,0.892,Fully Ramped

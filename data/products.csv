@@ -1,0 +1,9 @@
+product_id,product_name,product_family,product_category,product_tier,base_acv_usd,list_price_usd,gross_margin_pct,target_persona,sales_complexity,implementation_complexity,attachable_flag,bundle_eligible_flag
+P001,Market Intelligence Pro,Market Intelligence,Core Platform,Premium,150000,180000,0.78,Strategy,Medium,Low,Yes,Yes
+P002,Risk Analytics Suite,Risk Analytics,Analytics Add-on,Premium,175000,210000,0.76,CFO,High,Medium,Yes,Yes
+P003,Pricing Intelligence Engine,Pricing Intelligence,Decision Engine,Enterprise,135000,165000,0.8,CRO,Medium,Medium,Yes,Yes
+P004,Customer Intelligence Cloud,Customer Intelligence,Workflow Platform,Enterprise,120000,145000,0.74,CRO,Medium,Low,Yes,Yes
+P005,Competitive Intelligence Radar,Competitive Intelligence,Insights Module,Standard,90000,110000,0.82,Strategy,Low,Low,Yes,Yes
+P006,Forecasting Platform,Forecasting Platform,Decision Engine,Premium,160000,195000,0.77,CFO,High,Medium,Yes,Yes
+P007,Workflow Automation Hub,Workflow Automation,Workflow Platform,Standard,80000,95000,0.73,Product,Low,Medium,Yes,Yes
+P008,Executive Insights Portal,Executive Insights,Executive Layer,Premium,110000,135000,0.85,CFO,Low,Low,Yes,Yes

@@ -1,0 +1,5 @@
+scenario_id,scenario_name,industry,geography,company_size,buyer_persona,product_strategy,sales_motion,discount_pct,investment_amount_usd,hunter_capacity,farmer_capacity,target_win_rate_adjustment,target_acv_adjustment,pipeline_coverage_ratio,propensity_threshold
+SCN001,Base Case - Current Commercial Plan,All,All,All,All,Single Product,Direct,0.12,750000,69,107,0,0,3.5,70
+SCN002,Focused Growth - Healthcare Europe Bundle Push,Healthcare,Europe,Enterprise,CFO,Bundle,Direct,0.12,2000000,15,30,0.05,0,3.3,75
+SCN003,Aggressive Expansion - Technology APAC New Logo,Technology,APAC,Mid-Market,Product,Bundle,Partner,0.18,3500000,22,15,0.03,0,4,60
+SCN004,Price Discipline - Financial Services NA Premium,Financial Services,North America,Strategic,CFO,Single Product,Direct,0.06,1200000,20,35,-0.02,0,3.8,80
